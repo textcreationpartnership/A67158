@@ -1,0 +1,781 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Country conversations being an account of some discourses that happen'd in a visit to the country last summer, on divers subjects : chiefly of the modern comedies, of drinking, of translated verse, of painting and painters, of poets and poetry.</title>
+            <author>Wright, James, 1643-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67158</idno>
+            <idno type="STC">Wing W3693</idno>
+            <idno type="STC">ESTC R38767</idno>
+            <idno type="EEBO-CITATION">18111442</idno>
+            <idno type="OCLC">ocm 18111442</idno>
+            <idno type="VID">106814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106814)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1113:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Country conversations being an account of some discourses that happen'd in a visit to the country last summer, on divers subjects : chiefly of the modern comedies, of drinking, of translated verse, of painting and painters, of poets and poetry.</title>
+                  <author>Wright, James, 1643-1713.</author>
+               </titleStmt>
+               <extent>[6], 86 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Bonwicke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Wright by Wing and NUC pre-1956 imprints.</note>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Imaginary conversations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106814:1"/>
+            <pb facs="tcp:106814:1" rendition="simple:additions"/>
+            <p>Country Converſations: Being an ACCOUNT Of ſome DISCOURSES THAT Happen'd in a VISIT to the Coun<g ref="char:EOLhyphen"/>try laſt Summer, on divers Subjects;</p>
+            <list>
+               <head>CHIEFLY</head>
+               <item>Of the <hi>Modern Comedies,</hi>
+               </item>
+               <item>Of <hi>Drinking,</hi>
+               </item>
+               <item>Of <hi>Tranſlated Verſe,</hi>
+               </item>
+               <item>Of <hi>Painting</hi> and <hi>Painters,</hi>
+               </item>
+               <item>Of <hi>Poets</hi> and <hi>Poetry.</hi>
+               </item>
+            </list>
+            <p>
+               <q>
+                  <l>—Recubans ſub tegmine fagi</l>
+                  <l>Sylveſtrem tenui Muſam meditaris avena.</l>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Bonwicke,</hi> at the <hi>Red Lyon</hi> in St. <hi>Paul</hi>'s <hi>Church-yard.</hi> 1694.</p>
+            <pb facs="tcp:106814:2" rendition="simple:additions"/>
+            <pb facs="tcp:106814:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:106814:3" rendition="simple:additions"/>
+         </div>
+         <div type="author_to_the_wits">
+            <pb facs="tcp:106814:3"/>
+            <head>TO THE WITS.</head>
+            <p>FOR a plain Country Gen<g ref="char:EOLhyphen"/>tleman, who is none of your Fraternity, to meddle in theſe Matters ſeems a bold Intruſion; and to do this with<g ref="char:EOLhyphen"/>out any Apology, is ſtill leſs excu<g ref="char:EOLhyphen"/>ſable. I think it therefore, not im<g ref="char:EOLhyphen"/>proper to make a ſhort Addreſs to you, and therein to acquaint you, that what follows, was neither Writ nor Printed out of any Ma<g ref="char:EOLhyphen"/>licious intent to invade your Pre<g ref="char:EOLhyphen"/>rogative
+<pb facs="tcp:106814:4"/> of Writing and Cenſu<g ref="char:EOLhyphen"/>ring. It muſt be acknowledged that you are the True Proprietors and Sovereign Lords of the En<g ref="char:EOLhyphen"/>gliſh <hi>Parnaſſus;</hi> there is not a Shrub, or Twig of Bays that puts forth on that Mountain of the Muſes, but is within your Domini<g ref="char:EOLhyphen"/>on. All that I pretend to, is only the Birthright of a Free-born Subject, and to enjoy my Liberty of thinking. Shou'd you deny me this, you wou'd certain<g ref="char:EOLhyphen"/>ly be more Arbitrary, and ſhew a greater Tyranny over the Mind, than the <hi>Grand Seignior</hi> does over the Bodies and Purſes of his <hi>Muſſulmen.</hi> I made bold to borrow one of your Pens laſt Summer, and employ'd it meerly for a Paſs-time during the Inter<g ref="char:EOLhyphen"/>vals of Angling, and ſuch like
+<pb facs="tcp:106814:4"/> Diverſions of a Country Retreat, <hi>La Maniere de bien penſer</hi> fell in my way I know not how, and I had a mind to try how ſomething of that Nature wou'd look in our Language. I endeavour'd to imi<g ref="char:EOLhyphen"/>tate (tho faintly, and afar off) the Original Draught of <hi>Le Pere Bouhours:</hi> If this Copy may be allow'd by you to paſs as a thing well meant, tho not like, 'tis the moſt that I deſire, and more than I expect; if not, I ſhall not be much concerned, ſince I have known ſome of your own Tribe to be as unſucceſsfull. <hi>Farewel.</hi>
+            </p>
+            <pb facs="tcp:106814:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:106814:5" rendition="simple:additions"/>
+            <head>Country Converſations, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>SECT. 1. <hi>Of the Modern Comedies.</hi>
+               </head>
+               <p>ABOUT the middle of laſt Spring, <hi>Liſander</hi> a Com<g ref="char:EOLhyphen"/>moner of the firſt Rank, and one whoſe Virtues and Accompliſhments had render'd him as Eminent as his Birth and Eſtate, being to return to his Country Seat (from which he had been abſent the whole Winter) reſolved notwithſtand<g ref="char:EOLhyphen"/>ing to loſe as little as might be of the Advantages of the Town, the Chief of which is its Converſation. To this End he engaged <hi>Mitis</hi> and <hi>Julio,</hi> two of his moſt inward Friends, and per<g ref="char:EOLhyphen"/>ſons much of his Humour and Chara<g ref="char:EOLhyphen"/>cter, to bear him Company, and
+<pb n="2" facs="tcp:106814:6"/> Spend, at leaſt, part of the Summer with him. Nor would <hi>Liſander</hi> ſuffer them to go otherwiſe than in his own Coach, that ſo he might enjoy the moſt of their Diſcourſe, and make a kind of Accademy on the Road, du<g ref="char:EOLhyphen"/>ring this little Voyage; for the Re<g ref="char:EOLhyphen"/>move was ſhort, and but a Winter days Journey from <hi>London:</hi> They were no ſooner come into the Free and Un-citty'd Air, when <hi>Liſander</hi> told his Friends they muſt now reſolve to wean themſelves, for ſome time, from the Fountain of News, and exchange the Diverſions of the Coffee-Houſe, and the Theatre, for a Cool Shade and Rural Sports. <hi>Mitis</hi> Reply'd, the Change cannot but be very grate<g ref="char:EOLhyphen"/>ful to me, ſince I am quite ſick of the Common Buz at Coffee-Houſes, News frequently falſe, moſtly uncer<g ref="char:EOLhyphen"/>tain, and ſometimes abſurdly Ridicu<g ref="char:EOLhyphen"/>lous. You cannot be more Sick, ad<g ref="char:EOLhyphen"/>ded <hi>Julio,</hi> of the News, than I am of the New Plays, the Comedies eſpe<g ref="char:EOLhyphen"/>cially, which in my Eſteem are no<g ref="char:EOLhyphen"/>thing comparable to thoſe Writ be<g ref="char:EOLhyphen"/>fore the Civil War, and ſome in the
+<pb n="3" facs="tcp:106814:6"/> Reign of King <hi>Charles</hi> the Second. I am abſolutely of your mind, ſaid <hi>Li<g ref="char:EOLhyphen"/>ſander;</hi> and I think one may ſay, that the <hi>Plain Dealer,</hi> and Sir <hi>Foplin,</hi> were the laſt of our Engliſh Comedies, as properly and as truly, as <hi>Cremutius Cordus</hi> cou'd ſay, that <hi>Brutus</hi> and <hi>Caſ<g ref="char:EOLhyphen"/>ſius</hi> were the laſt of the Romans. I perceive, ſaid <hi>Mitis,</hi> that you two are Confederate againſt the Modern Comedies, and I ſhall have much a<g ref="char:EOLhyphen"/>do to defend them againſt ſo Potent an Alliance. But I beſeech you Gen<g ref="char:EOLhyphen"/>tlemen, how comes this unmodiſh O<g ref="char:EOLhyphen"/>pinion in you, againſt the Plays in Faſhion? I'll tell you, continued <hi>Li<g ref="char:EOLhyphen"/>ſander,</hi> methinks they have neither the Wit, Conduct, Honour, nor De<g ref="char:EOLhyphen"/>ſign of thoſe Writ by <hi>Johnſon, Shak<g ref="char:EOLhyphen"/>ſpear,</hi> and <hi>Fletcher.</hi> They are (gene<g ref="char:EOLhyphen"/>rally ſpeaking) Flaſhy and Light; like your Whipt Cream they have lit<g ref="char:EOLhyphen"/>tle or nothing of Subſtance in them, they ſeem only ſuted to humour ſome preſent Maggot or Caprice of the Town, without any further Deſign; and that may be the Reaſon, that for the moſt part, when they have once
+<pb n="4" facs="tcp:106814:7"/> had their Run, they are laid by; and rarely either Acted or Read again in Cool Blood. The Applauſe that is gi<g ref="char:EOLhyphen"/>ven them proves, as the Common Phraſe is, but a Nine Days Wonder. Whereas there is hardly a Scene in <hi>Shakſpeare</hi> (tho' he Writ near 100 years ſince) but we have it ſtill in Admiration, for the Vivacity of the Wit, the Juſtneſs of the Character, and the True, Natural, and Proper Expreſſion. Plays ſhould be (and have always been in the beſt Reform'd and moſt Civilized times) Moral Re<g ref="char:EOLhyphen"/>preſentations, but now moſt of our New Comedies are become the very Pictures of Immorality. This is a general Charge, ſaid <hi>Mitis,</hi> and fixes nothing. With <hi>Liſanders</hi> leave, ſaid <hi>Julio,</hi> I will give you ſome particu<g ref="char:EOLhyphen"/>lars. Firſt I muſt obſerve, that the Common Parts and Characters in our Modern Comedies, are two young Debauchees whom the Author calls Men of Wit and Pleaſure, and ſome<g ref="char:EOLhyphen"/>times Men of Wit and Senſe (but that is when they admire the Name of <hi>Lucretius,</hi> and ſeem to have a Judg<g ref="char:EOLhyphen"/>ment
+<pb n="5" facs="tcp:106814:7"/> above the Common Doctrines of Religion) theſe two Sparks are mightily addicted to Whoring and Drinking. The Bottle and the Miſs (as they Phraſe it) twiſted together make their <hi>Summum Bonum;</hi> all their Songs and Diſcourſe is on that Sub<g ref="char:EOLhyphen"/>ject. But at laſt, partly for Variety of Faces, and partly in Conſideration of improving their Eſtate (ſhatter'd with Keeping) they Marry two young Ladies, one of which is as wild as poſſibly can be, ſo as to ſcape the Main Chance, the other more reſerved, but really as forward to be Marry'd as her Siſter. Another neceſſary Ingre<g ref="char:EOLhyphen"/>dient of a Comedy, is a fooliſh Kt. (ſometimes a Rich Country Squire, but moſt commonly the Poet Dubs him) and his Fortune is always in the 5th Act to Marry a Caſt Whore of one of thoſe fine Gentlemen before mentioned, who like a Man of Ho<g ref="char:EOLhyphen"/>nour (ſuch as the Poet makes him) pretends that ſhe is a Perſon of Quality, and his near Kinſwoman. Add to theſe a Wife ſomewhat Elderly; but inſatiably Liquoriſh after a freſh Gal<g ref="char:EOLhyphen"/>lant;
+<pb n="6" facs="tcp:106814:8"/> with a Husband continually exclaiming againſt the intolerable Labour of a Marry'd Life, and the reſtleſs importunities of his Spouſe (and yet this unconſcio able Cuckold keeps a Whore, <hi>incognita).</hi> Theſe are the Fundamentals of a Modern Comedy: Theſe you have continually over and over again, the Names only vary'd, and ſome little Alteration in the Writing (moſt commonly for the worſe) till the Humours are become Naucious. For inſtance, a Lewd Wife pretending Honour (like my Lady <hi>Corkwood,</hi> in <hi>ſhe wou'd if ſhe cou'd)</hi> but Laſciviouſly coveting the two Sparks that are Suiters to her Nieces, and all that Run; was New, well contrived, and very diverting at firſt; and to have it a ſecond time under other Names, in <hi>Epſom Wells,</hi> was tolerable; but to have the very ſame again in the <hi>Virtuoſo,</hi> and ten years after that in <hi>the Scourers.</hi>
+               </p>
+               <q>
+                  <hi>—Occidit Miſeros Crambe rep tita.</hi>
+               </q>
+               <pb n="7" facs="tcp:106814:8"/>
+               <p> You are ſomewhat pleaſant, ſaid <hi>Mitis</hi> interrupting, in your Rehear<g ref="char:EOLhyphen"/>ſal of our Comick Materials, but withal, <hi>Julio,</hi> you are partial; for there is hardly any New Comedy that appears on the Stage, but has ſome New Part different from what has been before. 'Tis true, Reply'd <hi>Julio,</hi> there is indeed often added a New <hi>Quelque choſe,</hi> or (as common<g ref="char:EOLhyphen"/>ly call'd) a Kikſhaw, or two, to ſet off the Entertainment, but theſe are the ſtanding Diſhes, and ſo often have they been ſerved up, that they are now become Fuſty, and will hardly go down with the Waiters. It puts me in mind, ſaid <hi>Liſander,</hi> of a Fru<g ref="char:EOLhyphen"/>gal Tobacconiſt, who having a ſmall Twiſt of Excellent Tobacco given him, was Reſolved to manage it to the utmoſt Advantage; the firſt Day therefore, he chaw'd it, and then put it in his Pocket to dry again, the next day he cut it and Smoakt it in his Pipe, and after all ſaved the Aſhes to ſerve him in a Third Capacity, for Snuſh. But this Tedious Repetition of the ſame Notions and Images, continued
+<pb n="8" facs="tcp:106814:9"/> 
+                  <hi>Liſander,</hi> might be endured, if they were directed to the improvement of Virtue, or the diſcountenance of Vice. On the Contrary, we ſeldom or never ſee a Character of True Worth, Inte<g ref="char:EOLhyphen"/>grity, and Honour, in any of theſe Comedies, unleſs it be brought in meerly to be abuſed, and Laugh'd out of Countenance. The Debauchee is al<g ref="char:EOLhyphen"/>ways the fine Gentleman: 'Tis he that is ſet up for an Example fit for Imi<g ref="char:EOLhyphen"/>tation and Eſteem. And to ſay the Truth the young Gentry of the Na<g ref="char:EOLhyphen"/>tion have been in this particular Wonderful apt and pregnant Scholars. Whereas in the Comedies of the laſt Age, tho' you have ſometimes People of an ill Character repreſented, yet they had always ſome Mark of Diſ<g ref="char:EOLhyphen"/>grace ſet upon them before the End of the Play; and the contrary Virtue to that Vice was always Triumphant, and made the more Amiable and de<g ref="char:EOLhyphen"/>ſirous when compar'd and ſet off with the Blemiſhes of the other. With your permiſſion, ſaid <hi>Mitis,</hi> I doubt you are under a great miſtake in this; for our Wits and Criti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks have more
+<pb n="9" facs="tcp:106814:9"/> than once inform'd us, that Inſtructi<g ref="char:EOLhyphen"/>on is not the buſineſs of Comedy, but Diverſion and Laughter. Moral Pre<g ref="char:EOLhyphen"/>cepts, ſay they, are only proper to Tragedy and Grave Subjects: While the Right Object of Comedy is the True and Lively Repreſentation of the Manners and Behaviour of Man<g ref="char:EOLhyphen"/>kind in the times we Live in, ſo as to make a pleaſant Entertainment, and that's all. Our Poets, continued he, repreſent the Modern little Actions of Debauchees, as <hi>Ben Johnſon</hi> preſented the Humours of his Tankard Bearer, his Pauls Walkers, and his Collegiate Ladies, <hi>&amp;c.</hi> things then known and familiar to every Bodies Notice; and ſo are theſe now, and conſequently delightful to the times, as Pictures of Faces well known and remarkable. Theſe, Anſwered <hi>Julio,</hi> were <hi>Ben Johnſons</hi> Weakneſſes, and have been as ſuch ſufficiently exploded by our New faſhion'd Wits, and therefore methinks they ſhould not be imitated by them of all Men Living. Such Repreſentations are like a Painters ta<g ref="char:EOLhyphen"/>king a Picture after the Life in the
+<pb n="10" facs="tcp:106814:10"/> Apparel then Worn, which becomes Ungraceful or Ridiculous in the next Age, when the Faſhion is out. <hi>Mitis</hi> thought me under a miſtake, ſaid <hi>Li<g ref="char:EOLhyphen"/>ſander,</hi> but I wiſh he be not Guilty of a greater in thinking a pleaſant En<g ref="char:EOLhyphen"/>tertainment to be the only Deſign of a Comedy. Let your Wits and your Criticks ſay what they pleaſe, they can never convince me, but that the True End of Comedy as well as Tra<g ref="char:EOLhyphen"/>gedy, ought to be the Reformation of Manners, tho they differ in the Ope<g ref="char:EOLhyphen"/>ration. The Subject of Tragedy be<g ref="char:EOLhyphen"/>ing high, the Precepts, Sententious and Grave, and the Moral carries ſomething of Terrour againſt thoſe who are Great and Wicked, and Rai<g ref="char:EOLhyphen"/>ſes Compaſſion for the Sufferings of Good Men. On the other Hand, Comedy relates to the Inferior ſort of Mankind, but ſhou'd be directed to the ſame End, it ſhould render the Ill Habits of the Vulgar Odious as well as Ridiculous, it ſhould make Folly Bluſh, and Men aſhamed of their Vi<g ref="char:EOLhyphen"/>ces; and Encourage Virtue. On the contrary ſome of our Late Comedies
+<pb n="11" facs="tcp:106814:10"/> have given the greateſt Countenance to Libertiniſm that can be. by ſetting forth the extravagant Debauches of the Age as the True Character of a Gentleman, and only Fools and half Witted Creatures to be Conſiderate and Sober. Tho' they have not da<g ref="char:EOLhyphen"/>red openly to oppoſe the Precepts of Religion, yet they have continually Rail'd againſt Marriage, as a Curſe and Impoſition upon Nature; and at the ſame time ſet off Whoring with all the Delicacy of Expreſſion, and moſt obliging Character they could invent. They have not been ſo Bold as yet (what it may come to in time, I know not) to Repreſent Obſcene Actions on the Stage, nor to Uſe the Plain downright Expreſſions of Im<g ref="char:EOLhyphen"/>modeſty, but certainly there is ſuch a continued Thred of Laſcivious Mean<g ref="char:EOLhyphen"/>ing (commonly called Baudry in Clean Linnen) that Runs through a whole Play, and ſuch apparent and obvious Phraſes, that moſt of them muſt of neceſſity be taken in a Lewd Signifi<g ref="char:EOLhyphen"/>cation, or elſe they are Nonſenſe and Abſurd. On this Account I think it
+<pb n="12" facs="tcp:106814:11"/> almoſt impoſſible, for the Youth of either Sex to return from one of theſe Comedies with their Fancy as Inno<g ref="char:EOLhyphen"/>cent, as they went. Poetry, the Dra<g ref="char:EOLhyphen"/>matique eſpecially, has been properly called a ſpeaking Picture, as Painting, Dumb Poeſie. Which <hi>Charles Alphonſe du Freſnoy,</hi> in the beginning of his Poem <hi>De Arte Graphicâ,</hi> has thus cu<g ref="char:EOLhyphen"/>riouſly expreſt,</p>
+               <q>
+                  <l>Ut Pictura Poeſis erit; ſimiliſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Poeſi</l>
+                  <l>Sit Pictura, refert par aemula quae<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Sororem,</l>
+                  <l>Alternant<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Vices &amp; Nomina; muta Poeſis</l>
+                  <l>Dicitur haec, Pictura loquens ſolet illa vocari.</l>
+               </q>
+               <p>Now do but imagine, if the Ideas which theſe Modern Comedies are full of, were repreſented by the Pen<g ref="char:EOLhyphen"/>ſil to the Eye, in as lively manner as ſome of our Poets ſet them forth to the Intellect, would not this be a fit<g ref="char:EOLhyphen"/>ting Object to be expoſed to the Pub<g ref="char:EOLhyphen"/>lick, think you? I will paſs over the diſreſpect that has been ſhewn to the Clergy of all Opinions (thereby inſi<g ref="char:EOLhyphen"/>nuating Religion to be but a meer Trade at beſt) tho' ſome Scenes have
+<pb n="13" facs="tcp:106814:11"/> been ſo groſs, that they have been refuſed to be Acted, and cut out as Undecent for a Publick Repreſenta<g ref="char:EOLhyphen"/>tion (and yet the Poet has been ſo fond of them, as to Print 'em with the Reſt, in a different Character) However I cannot but obſerve, that a Statute was made in the Third Year of King <hi>James</hi> 1. whereby it was En<g ref="char:EOLhyphen"/>acted, <hi>That if at any time or times, any Perſon or Perſons, do or ſhall in a<g ref="char:EOLhyphen"/>ny Stage Play, Jeſtingly or Prophanely ſpeak, or <g ref="char:V">Ʋ</g>ſe the Holy Name of God, or of Chriſt Jeſus, which are not to be ſpoken but with Fear and Reverence, he ſhall Forfeit for every ſuch Offence Ten Pounds; the one Moity thereof to the King, the other to him or them that ſhall ſue for the ſame.</hi> How often this Penalty has been incurr'd, I will not determine. 'Tis well we know you, <hi>Liſander,</hi> ſaid <hi>Mitis</hi> Smiling; a Stran<g ref="char:EOLhyphen"/>ger wou'd think you nearly Related to <hi>William Prin,</hi> and that you are about to Compoſe a Supplement to his <hi>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtriomaſtix.</hi> So far from that, An<g ref="char:EOLhyphen"/>ſwer'd <hi>Liſander,</hi> that I profeſs my ſelf a Lover of the Stage; I Eſteem Plays
+<pb n="14" facs="tcp:106814:12"/> (if duly Regulated) to be of Excel<g ref="char:EOLhyphen"/>lent Uſe, for Inſtruction by Examples, for the Improvement of Wit, and for Innocent diverſion of that vacant time, which otherwiſe might be worſe imploy'd. What I have ſaid is in Or<g ref="char:EOLhyphen"/>der to their Continuance, by a timely Reformation of thoſe Scandals which are but too viſible and noted. 'Tis well known, that their Suppreſſion has been endeavour'd once or twice; and the Actors are not the firſt ſort of Men here in <hi>England,</hi> whoſe Inſtitu<g ref="char:EOLhyphen"/>tion, tho' it was at firſt Good and Laudable, yet being afterwards abu<g ref="char:EOLhyphen"/>ſed, their Enemies have taken occa<g ref="char:EOLhyphen"/>ſion from the Abuſe, wholly to forbid the Uſe. The <hi>Athenians</hi> and <hi>Romans,</hi> when their Comedies became Licen<g ref="char:EOLhyphen"/>tious, thought it not below the Dig<g ref="char:EOLhyphen"/>nity and Care of their Magiſtrates to Regulate their Faults. And of later times, we have a freſher and nearer Inſtance of the Reformation of the Stage. That Great Man, the Cardi<g ref="char:EOLhyphen"/>nal Duke of <hi>Richelieu,</hi> to whoſe Wiſe Councils <hi>France</hi> does at this day, per<g ref="char:EOLhyphen"/>haps, owe all her preſent Grandeur,
+<pb n="15" facs="tcp:106814:12"/> among all his other Noble Cares for the Advantage of that Kingdom, made it none of the leaſt to Reform the French Stage, that from a ſcandalous Load of Nautious Farce, which few of Quality wou'd Grace with their Preſence, the Objects of the Theatre are now become ſo Regular and Mo<g ref="char:EOLhyphen"/>deſt, that Ladies of the Niceſt Ho<g ref="char:EOLhyphen"/>nour, and the Graveſt Church Men ſee 'em without Offence. Or to Uſe the Words of my French Author<hi>—Par les ſoins du Grand Cardinal ae Richelieu, la Comedie a tellement changé de face, qu'il n'y reſte plus rien de ce qui la faiſoit autrefois condamner.</hi> Now really I wou'd not have a Nation of the Roman Catholick Communion boaſt of any ſort of Reformation, in which we of the Reform'd Religion are wanting.</p>
+               <p>Here this Diſcourſe was broke off for ſome time. After which Interrup<g ref="char:EOLhyphen"/>tion the Company being again ſettled, <hi>Mitis</hi> put <hi>Julio</hi> in mind of his Promiſe to give particular inſtances of the De<g ref="char:EOLhyphen"/>fects and Blemiſhes of our late Come<g ref="char:EOLhyphen"/>dies, and of the contrary Beauties of
+<pb n="16" facs="tcp:106814:13"/> thoſe before the Wars. Whereupon <hi>Julio,</hi> in a long Diſcourſe, produced out of <hi>Ben. Johnſon, Shakſpear, Beau<g ref="char:EOLhyphen"/>mont</hi> and <hi>Fletcher, Meſſenger, Shirley,</hi> and Sir <hi>William Davenant,</hi> before the Wars, and ſome Comedies of Mr. <hi>Drydens,</hi> ſince the Reſtauration, ma<g ref="char:EOLhyphen"/>ny Characters of Gentlemen, of a quite different Strain from thoſe in the Modern Plays. Whoſe Converſation was truly Witty, but not Lewd, Brave and not Abuſive; Ladies full of Spirit and yet Nicely Virtuous; with abundance of Paſſages diſcovering an admirable Invention, and quickneſs of thought, and yet decently facetious. On the contrary he gave infinite Ex<g ref="char:EOLhyphen"/>amples out of Modern Comedies of another Stamp, miſtaken Images of Bravery, Virtue deſpiſed, and the ve<g ref="char:EOLhyphen"/>ry Genius of Immodeſty, not dropt here and there, but ſo diffuſed, that it ſeems the Soul of the Play. He took occaſion to ſpeak of the Comick Scenes in Tragedies, or Tragick Stories, (much uſed by the Poets of the laſt Age) which they called Tragy-Comedies; he ſhew'd how uſeful they
+<pb n="17" facs="tcp:106814:13"/> were in many Reſpects, but that they were always ſubſervient to the main Deſign, and were uſed chiefly to Illu<g ref="char:EOLhyphen"/>ſtrate, Highthen, and ſet off, the Mo<g ref="char:EOLhyphen"/>ral of the Play. He ſhew'd alſo how thoſe Poets had always in their thoughts that Old Verſe,</p>
+               <q>Omne tulit Punctum qui miſcuit Utile dulci.</q>
+               <p>And that thoſe who Writ moſt Cor<g ref="char:EOLhyphen"/>rect and conſiderately ſquared their Deſigns by that Rule. But now ſaid he, the <hi>
+                     <g ref="char:V">Ʋ</g>tile</hi> ſeems wholly loſt and forgotten, and the <hi>Dulce</hi> is become Pall'd, Corrupted, and Sowr; as Hony it ſelf, and the beſt ſort of Sweet Meats will be with keeping. <hi>Julio</hi> was going on in this manner, but the Coach was now Arrived at <hi>Liſanders</hi> Village, and the Noiſe of the Bells that were Ringing to welcome his Coming, would not ſuffer any further Diſcourſe at that time.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="18" facs="tcp:106814:14"/>
+               <head>SECT. II. <hi>Of Drinking.</hi>
+               </head>
+               <p>
+                  <hi>LYſander</hi> being thus poſſeſt of the Society of thoſe two Perſons whom he Wrote in the firſt Liſt of his Friends, was Reſolved to give them all the Diverſions his Country could afford, which was certainly Inferiour to no Part of <hi>England</hi> for all ſorts of Game, and good Humour'd Converſa<g ref="char:EOLhyphen"/>tion. To Viſit and be Viſited, are the uſual Ways by which thoſe of the better ſort paſs off their vacant time in the Country. Two or three days after <hi>Liſander's</hi> Arrival, ſeveral of the Neighbouring Gentry came to Wel<g ref="char:EOLhyphen"/>come his Return. Among whom was <hi>Belamy</hi> a Gentleman of Handſom Parts, and Wit enough, but he had Learnt at <hi>Oxford</hi> (where he had ſpent ſome years) among other Arts, the Science of good Drinking. Which,
+<pb n="19" facs="tcp:106814:14"/> with his Country Practice ſince, had render'd him moſt expert, in that No<g ref="char:EOLhyphen"/>ble Science. He knew the Nature and Force of all ſorts of Wines, and had made an Engine (of which he was the Inventer) whereby to Eſſay, or Prove 'em, as they do Gunpowder, and know how far they wou'd carry, and at what diſtance of time do Exe<g ref="char:EOLhyphen"/>cution. The Learning of Wines be<g ref="char:EOLhyphen"/>ing ſomewhat Foreign, required more of Reading and Study, and a kind of Mathematical Head to make his Con<g ref="char:EOLhyphen"/>cluſions; but as for <hi>Our Manufacture,</hi> all the abſtruſe Queſtions relating to Ale, were ſo eaſie and obvious to his underſtanding, that (as I may ſay) it was his proper Element. He knew how by its own natural ferment (without the leaſt Adultery of Art) to Raiſe, Refine, Highten, and even inebriate the Liquor it ſelf. To this end only he had Study'd the Principles of Aſtronomy, and could tell you the Critical Minute when moſt ſucceſs<g ref="char:EOLhyphen"/>fully to brew, when to Tun, when to Bottle, and when to Drink; and how many hours Sleep is requiſite af<g ref="char:EOLhyphen"/>ter
+<pb n="20" facs="tcp:106814:15"/> a full Doſe, a half Doſe, and a quarter Doſe. All this Curious Learn<g ref="char:EOLhyphen"/>ing and forty times as much more on the ſame Subject, <hi>Belamy</hi> was a Com<g ref="char:EOLhyphen"/>pleat Maſter of. After Dinner the Bottles began to Muſter according to Modern Diſcipline. <hi>Mitis</hi> and <hi>Julio,</hi> foreſaw an Aſſault, and began to caſt up all the Arguments they could, to fortifie their Camp againſt the Ene<g ref="char:EOLhyphen"/>my: <hi>Mitis</hi> eſpecially, who was one of thoſe Stanch and Abſtemious Hu<g ref="char:EOLhyphen"/>mouriſts that Drink more Tea than Claret; underſtand me, between Meals; for at Dinner he always took his Glaſs in Courſe, and thought it then as abſurd to forbear Wine as to drink Coffee. <hi>Belamy</hi> who happen'd to fit next him, and having obſerved him at Dinner to drink freely enough, and never balk a Health, he conclu<g ref="char:EOLhyphen"/>ded he would do the like at all times; perceiving therefore now, that he tri<g ref="char:EOLhyphen"/>fled with his Glaſs, and (as he Phra<g ref="char:EOLhyphen"/>ſed it) did not Drink fairly, he began to preſs upon him, and urge him to be ſociable, alledging for a main Ar<g ref="char:EOLhyphen"/>gument, that after this Rate we ſhall
+<pb n="21" facs="tcp:106814:15"/> be Drunk before you. <hi>Mitis</hi> a little moved to find the Conſcience leſs free in Drinking than Religion, Reply'd, Do you Eſteem that an Advantage, or diſadvantage? a Happineſs, or Misfor<g ref="char:EOLhyphen"/>tune? Let me periſh if I can imagine which you think it. For if you think it a misfortune, who conſtrains you to drink a ſtronger Liquor, or in a greater quantity, than I do? But if you think it a Happineſs or Advan<g ref="char:EOLhyphen"/>tage, what Reaſon have you to com<g ref="char:EOLhyphen"/>plain of that? This was a Dilemma which <hi>Bellamy</hi> was not at that time prepared to Anſwer, he therefore Balkt the Queſtion, as <hi>Mitis</hi> had done the Glaſs, and in a more Complaiſant manner, entreated him to begin a Health, ſuch as he pleas'd. Will you then pledge me in Tea, ſaid <hi>Mitis.</hi> Not while there is Wine in the Coun<g ref="char:EOLhyphen"/>ty, Reply'd the other. And what, continued <hi>Mitis,</hi> ſhould oblige me to Drink your Liquor, more than you mine? Suppoſe a Water Drinker here (you know there are many ſuch) whoſe long continued Cuſtom has made it natural to drink nothing but
+<pb n="22" facs="tcp:106814:16"/> pure Element. Wou'd you think it Civility to preſs him to pledge you a Bumper in Claret, or on the other hand, wou'd you not think him Mad to urge you to Pledge a Pint Glaſs from the Ciſtern? A Water Drinker, ſays <hi>Bellamy,</hi> is Company for my Horſe, and unfit for Society. Here<g ref="char:EOLhyphen"/>upon <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tis</hi> demanded, what do you call Society? The other reply'd rea<g ref="char:EOLhyphen"/>dily, Wit, Mirth, and good Hu<g ref="char:EOLhyphen"/>mor; which none can be Maſter of without a generous Bottle. And yet, ſaid <hi>Mitis, Voiture</hi> drunk Water. That very Name has the force of a thouſand Arguments againſt you. Beſides, VVater is the natural Drink of the whole Creation; the only Drink, in probability, before the Flood, when Mankind lived to the extrava<g ref="char:EOLhyphen"/>gancy of Old Age; and certainly could we reduce our ſelves to that which was <hi>Adam</hi>'s Liquor, and leave that of <hi>Noah,</hi> whoſe firſt appearance in the VVorld was unluckly and ominous, we ſhould avoid a thouſand Diſtractions, &amp; (which is the conſtant effect of Drink<g ref="char:EOLhyphen"/>ing in me) as many painful Surfeits and
+<pb n="23" facs="tcp:106814:16"/> Feavers. That's only for want of Pra<g ref="char:EOLhyphen"/>ctice, ſaid <hi>Belamy;</hi> if you did but uſe it more, you would not be diſturb'd; no more than I, who am as Brisk and well next day after my three Bottles over Night, as if it were Mothers Milk. Are you ſure it agrees ſo well with you, ſaid <hi>Mstis</hi> ſlily, I ſhould be apt to think it does not. Do you think me, anſwered <hi>Belamy</hi> ſomewhat haſtily, a Fool or a Mad-Man? VVhy ſure you'l give me leave to underſtand my own Conſtitution better than you; and Judge of my own Temper from Experience truer than you can. You have Reaſon, anſwer'd <hi>Mitis;</hi> and why muſt I be ſuppoſed ſuch an Ideot that I cannot do the ſame of my Temper from my Experience? You Adviſe me to Drink VVine more frequently, that it may by conſtant practice, be familiar to my Stomach, and that I may have my Health after it. Is not this Ridiculous, when I have my Health already without it? I know there is a ſort of People who think it conducing to their Health (or at leaſt their Pleaſure) once or twice
+<pb n="24" facs="tcp:106814:17"/> a VVeek to be <hi>very Merry,</hi> as they call it, that is in Engliſh, <hi>down Drunk:</hi> and this in their Phraſe is to give Na<g ref="char:EOLhyphen"/>ture a Fillip. How you approve of this I know not, for my part I think ſuch a Courſe of Life as far from plea<g ref="char:EOLhyphen"/>ſure as it is from Health. An other thing I have obſerved among your Good Fellows, which in my Opinion is extreamly obſurd; if one Man drinks his Glaſs leſs full than his who drank to him, the other cries out in a very Pathetical manner,; Nay Sir, Do me Juſtice—mine was higher. As if the Contents of one Man's Sto<g ref="char:EOLhyphen"/>mack were the Standard for all Men. They call this Juſtice, which in reali<g ref="char:EOLhyphen"/>ty is the greateſt Injuſtice that belongs to Society. Suppoſe it were the Cu<g ref="char:EOLhyphen"/>ſtom to Eat Healths and not drink'em (as I ſee no Reaſon for one more than t'other.) There are ſome of ſuch Vo<g ref="char:EOLhyphen"/>racious Appetites, that one Man can Eat a whole Shoulder of Mutton at a Bout, or perhaps a Leg of Pork and Turnips. Wou'd you think it reaſon<g ref="char:EOLhyphen"/>able for one of theſe Eaters to deſire his Friends to pledge him, and
+<pb n="25" facs="tcp:106814:17"/> take off a whole Shoulder? Perhaps his next Neighbour at Table is one of thoſe who have an Averſion for Hogs Fleſh, wou'd you think it Civil for one of theſe Devourers aforeſaid to Eat a Health, and preſs the other to do him Juſtice, and Pledge him in five or ſix pound of Pork? Away with your naucious Similes, interrupted <hi>Belamy,</hi> who ever heard of Eating Healths? The Debate, ſaid <hi>Mitis,</hi> is not of Eating or Drinking, but mea<g ref="char:EOLhyphen"/>ſuring the Contents of one Man's Ap<g ref="char:EOLhyphen"/>petite by that of an other.—But what is a Health? <hi>Belamy</hi> readily gave him this Definition; A Health is only a hearty Wiſh between two, for the Good and Proſperity of a third Per<g ref="char:EOLhyphen"/>ſon; and as an Evidence to demon<g ref="char:EOLhyphen"/>ſtrate the Reality of our Intention, we take off a Bumper, tho perhaps againſt ones Stomach: Nay, the big<g ref="char:EOLhyphen"/>ger the Glaſs is, and the more againſt nature, the ſtronger our Affection. A moſt excellent Demonſtration of well wiſhing! cryed <hi>Mitis;</hi> ſome<g ref="char:EOLhyphen"/>thing like this, continued he, I have read, of a ſort of Bigotted Turks,
+<pb n="26" facs="tcp:106814:18"/> who in the hight and tranſport of their Zeal, to ſhew their Love and Devotion to <hi>Mahomet,</hi> cut and gaſh their own Fleſh, and Stab themſelves in the Hand. But here's the diffe<g ref="char:EOLhyphen"/>rence, ſome Men among us, when they demonſtrate on ſuch occaſions as you mention, inſtead of Wounding themſelves they Stab others. Come, come, ſaid <hi>Belamy,</hi> all your Argu<g ref="char:EOLhyphen"/>mentation ſignifies not a ruſh, the Practice of all <hi>Europe</hi> in this Age, is againſt you; and Cuſtom muſt pre<g ref="char:EOLhyphen"/>vail. In my mind, reply'd <hi>Mitis,</hi> our Anceſtors the Old <hi>Britans</hi> had a much better Cuſtom, for which they were propoſed as an Example of Tempe<g ref="char:EOLhyphen"/>rance: Witneſs the Poet,</p>
+               <q>
+                  <lg>
+                     <l>Ecce Britannorum Mos eſt laudabilis iſte</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>t bibat arbitrio pocula quiſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſuo.</l>
+                  </lg>
+               </q>
+               <p>Which with your permiſſion may be Engliſh'd thus,</p>
+               <q>
+                  <lg>
+                     <l>Among the <hi>Britans</hi> we this Cuſtom find,</l>
+                     <l>That no Man drinks but as he is inclin'd.</l>
+                  </lg>
+               </q>
+               <pb n="27" facs="tcp:106814:18"/>
+               <p> Methinks' ſaid <hi>Belamy, arbitrio ſuo</hi> may as well be taken in an other quite different ſence, and with the ſame Liberty that you have uſed, I may render it thus</p>
+               <q>
+                  <lg>
+                     <l>Among the <hi>Britans</hi> this good Cuſtom was,</l>
+                     <l>That each Man willingly took off his Glaſs.</l>
+                  </lg>
+               </q>
+               <p>The reſt of the Company who had been hitherto very Attentive to the pleaſant Dialogue, could no longer forbear to interpoſe. <hi>Julio,</hi> either out of Complaiſance to <hi>Belamy,</hi> being a ſtranger, or minded to Rally <hi>Mitis,</hi> highly applauded <hi>B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lamy</hi>'s Verſion; ſaying, it ſhew'd the very Spirit of <hi>Ben. Johnſon,</hi> when indulging his Ge<g ref="char:EOLhyphen"/>nius in the <hi>Apollo. Liſander</hi> ſmiled and ſaid he liked the Witty Evaſion of the Authors Sence. Others, who were Brothers of the Bottle, were Laviſh in their Commendation, and that they might never forget ſo uſe<g ref="char:EOLhyphen"/>ful a piece of Poetry, they Writ it down in their Table Books. One of the Company, an Old Cavalier of Gray Age, but of a Wit and Judg<g ref="char:EOLhyphen"/>ment
+<pb n="28" facs="tcp:106814:19"/> as Vigorous as ever, ſaid, <hi>Be<g ref="char:EOLhyphen"/>lamy</hi>'s Shift puts me in mind of an E<g ref="char:EOLhyphen"/>vaſion that was made (ſomewhat to better purpoſe) many years ago, in the time of <hi>Oliver</hi>'s Rebellion. The Parlimentarian Party were very apt to Argue the Righteouſneſs of their Cauſe from the Succeſs; ſaying, that God owned his People, and manifeſted the Juſtice of their Undertakings by the many Victories which he gave them, and a great deal of Cant to that pur<g ref="char:EOLhyphen"/>poſe. One of that ſide who pretend<g ref="char:EOLhyphen"/>ed to Learning, ſaid, the Notion was acknowledged in all Ages, which made <hi>Lucan</hi> Write,</p>
+               <q>Victrix Cauſa Diis placuit—</q>
+               <p>A Royaliſt then preſent of a Wit as far Superiour to his, as his Princi<g ref="char:EOLhyphen"/>ples were better, Replyed, Conſider the whole Verſe together, and it makes againſt you.</p>
+               <q>Victrix Cauſa Diis placuit, ſed Victa Catoni.</q>
+               <pb n="29" facs="tcp:106814:19"/>
+               <p> Now all Hiſtory tells us of what Eminent Virtues, and how excellent a Man That <hi>Cato</hi> was; and we are ſtill better inform'd, from the Holy Scripture, that the Heathen Gods were Devils, <hi>Omnes Dii gentium Dae<g ref="char:EOLhyphen"/>monia.</hi> (Pſal. 95. v. 5.) The plain Engliſh therefore of that Verſe in <hi>Lu<g ref="char:EOLhyphen"/>can</hi> is no more than this;</p>
+               <q>
+                  <l>Devils the Conquering Cauſe like beſt,</l>
+                  <l>But Divine <hi>Cato</hi> the Oppreſt.</l>
+               </q>
+               <p>This Tranſlation, ſays <hi>Julio,</hi> would certainly have pleas'd Father <hi>Bou<g ref="char:EOLhyphen"/>hours,</hi> who in all probability would have prefer'd it to the Latine, ſince in the very beginning of his <hi>Man ere de bien penſer,</hi> he falls foul on <hi>Lucan</hi> for repreſenting, in that place, a Mor<g ref="char:EOLhyphen"/>tal Man to be of a better Character for Juſtice and Compaſſion, than the Gods, contrary to the Univerſally re<g ref="char:EOLhyphen"/>ceived Notions of a Deity. Hereupon they fell into a long Diſcourſe of Tranſlated Verſe. <hi>Liſander</hi> affirm'd that none can be properly ſaid to Tranſlate well, unleſs he improves the
+<pb n="30" facs="tcp:106814:20"/> Author's Thought, or at leaſt melio<g ref="char:EOLhyphen"/>rates the Expreſſion in Engliſh beyond what it is in Latine, which rarely happens, unleſs it be from one who has great Judgment in both Langua<g ref="char:EOLhyphen"/>ges. And for this reaſon the Tranſla<g ref="char:EOLhyphen"/>tion of Latine Poetry, Verbally, into Engliſh Proſe, (or bad Verſe, which is worſe) is Dull and Flat, tho' never ſo good in the Original, becauſe it wants the Delicacy of Expreſſion, and the Harmony of Meaſure and Ca<g ref="char:EOLhyphen"/>dence, which belongs to true Poeſie. <hi>Julio</hi> acknowledged what <hi>Liſander</hi> ſaid, to be undoubted Truth, and obſerved further, that the Poets of this Age, however ſhort they may be of ſome of their Predeceſſors in other matters; yet they much excell them in the Art of Verſifying; I mean for eaſie and Genuine Expreſſion, and ſmooth compoſure of their Lines, pla<g ref="char:EOLhyphen"/>cing their Words ſo as may moſt a<g ref="char:EOLhyphen"/>gree with the uſual way of ſpeaking, and not begining a Period in the mid<g ref="char:EOLhyphen"/>dle of one Verſe, and ending it in the middle of the next. In which parti<g ref="char:EOLhyphen"/>culars moſt, if not all the Poets of
+<pb n="31" facs="tcp:106814:20"/> the laſt Age were very Faulty and Ungraceful in their Writings. And yet, ſaid <hi>Mitis,</hi> I remember a Latine Couplet, Witty enough, which I think better expreſt in Engliſh, above 100 years ago, (as ſeems by the Meaſure.) It is a piece of an Epigram relating to a Clock: The Words are theſe,</p>
+               <q>
+                  <lg>
+                     <l>Quis teneat lento fugientia tempora nodo,</l>
+                     <l>Cum dent &amp; celeres plumhea vincla pedes?</l>
+                  </lg>
+               </q>
+               <p>The reſt I have forgot, both of the Latine and Engliſh, except only this Concluſion,</p>
+               <q>
+                  <lg>
+                     <l>Then who with gentle tye can cauſe the fleeting time to ſtay;</l>
+                     <l>VVhen feet which fetter'd are with Lead, do poſt ſo faſt away?</l>
+                  </lg>
+               </q>
+               <p>Here the thought is as full as in the Original, but much more intelligibly expreſt to an Engliſh Ear, than if he had ſaid, That <hi>Leaden Chains give ſwift Feet,</hi> the harſhneſs of the Me<g ref="char:EOLhyphen"/>taphor being mollified in the Tranſla<g ref="char:EOLhyphen"/>tion. Which is the more obſervable, added <hi>Liſander,</hi> in regard the Writers
+<pb n="32" facs="tcp:106814:21"/> of thoſe times do ſo very much ſuper<g ref="char:EOLhyphen"/>abound in uneaſie Figures, and hardly any thing was then admitted to be well and Scholar-like pen'd, unleſs it were almoſt all Metaphor, and Cata<g ref="char:EOLhyphen"/>chreſis. In the mean time, ſays <hi>Be<g ref="char:EOLhyphen"/>lamy,</hi> we forget our Buſineſs; the Wine dies, the Glaſs ſleeps, and the Butler grows Purſey for want of Ex<g ref="char:EOLhyphen"/>erciſe: Away with your Poetry and Poets, the beſt uſe we can make of them at preſent is, in my opinion, to Drink all their Healths from <hi>Homer</hi> down to <hi>Ben.</hi> The Extravagancy of ſuch a Propoſal made <hi>Mitis</hi> ſtart, who reply'd, that to do ſo wou'd take up more time than he deſigned to ſpend in the Country, and he queſti<g ref="char:EOLhyphen"/>on'd whether <hi>Liſander</hi>'s Celler could ſupply them all. Beſides, ſays he, I muſt be firſt ſatisfied by a Divine, whether Drinking a Health to the Deceaſed be not as Superſtitious and Unlawful as to pray for them. Well then, ſaid <hi>Belamy,</hi> ſince we muſt not remember them this way, let us e'en take a friendly Round or two, and forget 'em. <hi>Liſander</hi> propoſed, as a means
+<pb n="33" facs="tcp:106814:21"/> to gratifie both Parties, the Drinkers, and the Wits, that <hi>Mitis</hi> and <hi>Julio</hi> ſhould at this time comply in ſome reaſonable degree with <hi>Belamy,</hi> and in return, he and all the Reſt of the Com<g ref="char:EOLhyphen"/>pany ſhould at the next Meeting pro<g ref="char:EOLhyphen"/>duce a Specimen of Tranſlated Verſe of their own performance, all which ſhould be impartially Examined by the Reſt; thereby to diſcover, if not an Example of good Tranſlation, yet at leaſt how it ſhould be ſuch. What <hi>Liſander</hi> mention'd was not unpleaſing to any; each Man in the Company undertook to perform his part, ac<g ref="char:EOLhyphen"/>cording to his Talent, both for Drink<g ref="char:EOLhyphen"/>ing and VVriting. The Reſt of the Evening they Sacrificed to <hi>Bacchus,</hi> till the Company Parted, all having enough, and ſome too much.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="34" facs="tcp:106814:22"/>
+               <head>SECT. III. <hi>Of Tranſlated Verſe.</hi>
+               </head>
+               <p>IT was about a fortnight or three Weeks after, before all thoſe who had undertaken this Exerciſe of the Muſes could meet. At laſt they hap<g ref="char:EOLhyphen"/>pen'd together at <hi>Liſanders:</hi> Who af<g ref="char:EOLhyphen"/>ter a Noble Treat at Dinner, led his Friends to his favourite Walk in the Bottom of his Park. It was cut out and contrived on the Bank of a moſt delightſome River, as well ſtored with all ſorts of Fiſh, as the Swans would permit; the Walk was as Broad, and even as the <hi>Mall,</hi> and above half as long, but not ſo ſtrait, it humouring the Meanders of the Stream. The whole length of the Walk was skirt<g ref="char:EOLhyphen"/>ed on the one Hand with a Wood con<g ref="char:EOLhyphen"/>tinually full of Nightingales, Thro<g ref="char:EOLhyphen"/>ſtles, Stockdoves, and ſuch Silvan Mu<g ref="char:EOLhyphen"/>ſick; the outward Branches of which were ſo Luxuriant, that they ſpred
+<pb n="35" facs="tcp:106814:22"/> themſelves with little or no intermiſ<g ref="char:EOLhyphen"/>ſion, as a Natural Canopy from one end of the Walk to the other. On the other ſide, oppoſite to the Wood, ran along a moſt ſweet and clear Ri<g ref="char:EOLhyphen"/>ver, and beyond that lay ſuch a Beau<g ref="char:EOLhyphen"/>tious Proſpect of Meadows, ſo deckt at that time with Primroſes, Daiſies, and other ſuch like wild Gayities of the forward Spring, as if Nature had defied the moſt skilful Jeweller to ſhew a pleaſanter Enamel. <hi>Liſander</hi> had contrived on the Wood ſide of this Walk ſeveral Seats and Reſting places, but one more eſpecial about the Middle. It was a kind of ſmall Summer Houſe Placed oppoſite to a Viſto that for Eight or Ten Miles for<g ref="char:EOLhyphen"/>ward, cut through all the delightful Objects that fancy can deſire in the moſt pleaſing Landskip. Here it was that <hi>Liſander</hi> having ſeated the Com<g ref="char:EOLhyphen"/>pany, remember'd them of the Tran<g ref="char:EOLhyphen"/>ſlated Eſſays they had all promiſed; and becauſe he was the Promoter of the Undertaking, himſelf firſt began with Repeating theſe Lines out of the Sixth Book of <hi>Virgils Aeneads.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <pb n="36" facs="tcp:106814:23"/>
+                     <l>Excudent alii ſpirantia mollius aera;</l>
+                     <l>Credo equidem, vivos ducant è marmore Vultus.</l>
+                     <l>Orabunt Cauſas melius, caelique meatus</l>
+                     <l>Deſcribent radio, &amp; ſurgentia ſidera dicent.</l>
+                     <l>Tu regere imperio populos, Romane, memento,</l>
+                     <l>(Hae tibi erunt artes) paciſque imponere morem</l>
+                     <l>Parcere Subjectis, &amp; debellare ſuperbos.</l>
+                  </lg>
+               </q>
+               <p>Which, ſaid he, I have ventured to render thus, in Engliſh.</p>
+               <q>
+                  <lg>
+                     <l>Some may in Sculpture ſweeter Touches give,</l>
+                     <l>And by their Skill make the Cold Marble live:</l>
+                     <l>Some better may defend their Clyent's Cauſe;</l>
+                     <l>Some in Aſtronomy gain more Applauſe:</l>
+                     <l>To Rule, O Roman, ſhall thy Science be;</l>
+                     <l>Theſe are the Proper Arts of Majeſty:</l>
+                     <l>How in ſoft Peace their Subjects to diſpoſe,</l>
+                     <l>And how with Steel to manage Rebel Foes.</l>
+                  </lg>
+               </q>
+               <p>
+                  <hi>Mitis</hi> began to Applaud the Tran<g ref="char:EOLhyphen"/>ſlation, when <hi>Liſander</hi> cut him ſhort, ſaying, that he did not propoſe theſe Eſſays for Applauſe, either to himſelf or others; but on the contrary to oc<g ref="char:EOLhyphen"/>caſion handſom Exceptions, and diſ<g ref="char:EOLhyphen"/>coveries not of Beauties, but Defects and Blemiſhes (which he knows the Company can make) in Order there<g ref="char:EOLhyphen"/>by
+<pb n="37" facs="tcp:106814:23"/> to teach one how to write Cor<g ref="char:EOLhyphen"/>rectly. And I am of Opinion, conti<g ref="char:EOLhyphen"/>nued he, that no Man can be ſaid tru<g ref="char:EOLhyphen"/>ly to write well, unleſs he can <hi>find Fault</hi> well. For Faults, like Diſeaſes, when perfectly diſcover'd are half Cu<g ref="char:EOLhyphen"/>red. Hereupon <hi>Julio</hi> ſaid, I tell you frankly then <hi>Liſander,</hi> I ſhou'd not like your Expreſſion in the ſecond Line<hi>—Make the cold Marble live—</hi>as too bold and extravagant, were it not Ju<g ref="char:EOLhyphen"/>ſtified in the Original by <hi>ſpirantia aera,</hi> and <hi>Vivos Vultus:</hi> But there is a real Fault, or rather Defect in your Tran<g ref="char:EOLhyphen"/>ſlation, for which I can Frame no manner of excuſe. You have omit<g ref="char:EOLhyphen"/>ted <hi>Parcere Subjectis,</hi> which ſeems to me to be the moſt material Part of the Character which <hi>Virgil</hi> here gives of an excellent Prince, or Governor; Mercy and Forbearance are Attributes of the Deity, and nothing can be more Great and Godlike in a Ruler. Therefore <hi>Debellare Superbos,</hi> and not <hi>parcere Subjectis</hi> at the ſame time, as it is but half the Advice of <hi>Anchiſes</hi> to <hi>Aeneas,</hi> (or under that Fiction, of <hi>Virgil</hi> to <hi>Augustus)</hi> ſo it is but half the
+<pb n="38" facs="tcp:106814:24"/> ſenſe of your Author. <hi>Liſander</hi> ac<g ref="char:EOLhyphen"/>knowledged the Truth of what <hi>Julio</hi> ſaid, and thank'd him, for expreſſing his free Thought. <hi>Belamy</hi> happen'd to ſit next to <hi>Liſander,</hi> and was there<g ref="char:EOLhyphen"/>fore as next in Order, requeſted to produce ſomething or other that he had fancied ſince the laſt Meeting. I profeſs, replyed he briskly, I have not of late met any thing more agree<g ref="char:EOLhyphen"/>able to my Humour, than an Old <hi>Chanſon a boire</hi> in one of <hi>Molier</hi>'s Co<g ref="char:EOLhyphen"/>medies.</p>
+               <q>
+                  <lg>
+                     <l>Buuons, chers Amis, buvons,</l>
+                     <l>Le temps qui fuit nous y convie:</l>
+                     <l>Profitons de la vie</l>
+                     <l>Autant que nous pouvons:</l>
+                     <l>Quand on a paſſé l'onde noire,</l>
+                     <l>Adieu le bon Vin, nos amours;</l>
+                     <l>Depeſchons-nous de Boire,</l>
+                     <l>On ne boit pas toûjours.</l>
+                  </lg>
+                  <lg>
+                     <l>Laiſons Raiſonner les Sots</l>
+                     <l>Sur le vray bon heur de la vie;</l>
+                     <l>Noſtre Philoſophie</l>
+                     <l>Le met parmy les Pots:</l>
+                     <pb n="39" facs="tcp:106814:24"/>
+                     <l>Les biens, le Scavoir, &amp; la Gloire,</l>
+                     <l>N'oſtent point les ſoucis faſcheux;</l>
+                     <l>Et ce n'eſt qu'a bien boire</l>
+                     <l>Que l'on peut eſtre heureux.</l>
+                  </lg>
+               </q>
+               <p>Which I thus Engliſh,</p>
+               <q>
+                  <lg>
+                     <l>Drink, my Friends, and uſe your time,</l>
+                     <l>While eaſie Life is in its Prime,</l>
+                     <l>E're our Drinking days are paſt.</l>
+                     <l>Sullen Age comes on apace,</l>
+                     <l>And Death will all our Joys deface:</l>
+                     <l>Drinking cannot always laſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Drink, my Friends, while Fools diſpute</l>
+                     <l>Of what is Life's moſt Happy Fruit;</l>
+                     <l>All their Arguments are Cheat.</l>
+                     <l>Fair Eſtates, and Fame more fair,</l>
+                     <l>Cou'd never yet extinguiſh Care;</l>
+                     <l>Drinking only does the Feat.</l>
+                  </lg>
+               </q>
+               <p>A <hi>Chanſon a Boire,</hi> ſaid <hi>Mitis,</hi> is of ſo ſlight a Nature, that it can hardly afford either matter or words ſubſtan<g ref="char:EOLhyphen"/>tial enough to bear an exception; things of this kind are ſuppoſed to be writ as it were <hi>extempore</hi> o're a Glaſs of Wine, with little or no Conſidera<g ref="char:EOLhyphen"/>tion,
+<pb n="40" facs="tcp:106814:25"/> and therefore have all the Grains of allowance that can poſſibly be gi<g ref="char:EOLhyphen"/>ven. And for that reaſon I cannot in this, tho in an other ſort of Poem I ſhould diſapprove the laſt Words, <hi>does the Feat,</hi> as a low and abject Phraſe. Yet, ſaid <hi>Julio,</hi> if a Word be uſed improperly, or in a ſenſe that it will not bear, it may be juſtly con<g ref="char:EOLhyphen"/>demn'd; for example, in the firſt <hi>Stanza,—Death will all our Joys De<g ref="char:EOLhyphen"/>face.</hi> Deface is a word that relates properly to Objects of the Sight, as to Deface a Writing, a Monument, a Picture, <hi>&amp;c.</hi> Now Joys are Notional and may be ſaid to be <hi>Defeated, De<g ref="char:EOLhyphen"/>ſtroyed,</hi> or <hi>Determined,</hi> but, as I conceive, not properly to be <hi>Defaced;</hi> no more than to deface ones pleaſure, or deface a Jeſt or fit of Laughter. After all added <hi>Liſander,</hi> I think his Engliſh to be better than the French Original, as including the Authors ſenſe in leſs Compaſs, and fewer Idle Words. Here <hi>Charleſon</hi> (for that was the Name of the Old Cavalier former<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y men<g ref="char:EOLhyphen"/>tion'd) recited the beginning of that Famous Ode in the 3<hi>d</hi> Book of <hi>Horace,</hi>
+                  <pb n="41" facs="tcp:106814:25"/> which, ſaid he, we that ſuffer'd in the times of Rebellion and Anarchy, did ſometimes uſe to apply to our ſelves, by way of Incouragement.</p>
+               <q>
+                  <lg>
+                     <l>Juſtum &amp; tenacem propoſiti Virum,</l>
+                     <l>Non civium ardor prava jubentium,</l>
+                     <l>Non vultus inſtantis Tyranni</l>
+                     <l>Mente quatit ſolida: ne<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Auſter,</l>
+                     <l>Dux inquieti turbidus Adriae,</l>
+                     <l>Nec fulminantis magna Jovis manus.</l>
+                     <l>Si fractus illabatur Orbis</l>
+                     <l>Impavidum ferient Ruinae.</l>
+                  </lg>
+               </q>
+               <p>I ſhall give ye occaſion enough of Exception, continued he, when I tell you my Engliſh.</p>
+               <q>
+                  <lg>
+                     <l>The Juſt and conſtant Man is ne're caſt down</l>
+                     <l>By the Mob's Fury, or a Tyrants Frown.</l>
+                     <l>Nor Winds, nor Waves, nor Thunder, can</l>
+                     <l>Or Shake, or Startle, ſuch a Man;</l>
+                     <l>Nay ſhou'd the very Heavens Fall</l>
+                     <l>And a New Chaos ſwallow all,</l>
+                     <l>Well ſettled in his Mind, he'd ſtand upright;</l>
+                     <l>Nor cou'd the Univerſal Ruin Fright.</l>
+                  </lg>
+               </q>
+               <p>This Tranſlation, ſaid <hi>Liſander,</hi> has fully and handſomly expreſt the Senſe of the Latine; but not after the Poe<g ref="char:EOLhyphen"/>tical
+<pb n="42" facs="tcp:106814:26"/> Phraſe of the Author. And tho' <hi>Nor Winds, nor Waves, nor Thunder—</hi>gives us the true ſignification and meaning, of <hi>Ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Auſter Dux turbidus Adriae, nec Jovis Manus—</hi>Yet in my Opinion a Tranſlator muſt not neglect thoſe Figurative ways of ſpeaking; for if ſo, we ſhould looſe the Intelligence of the Old received Fictions, without which we can ne<g ref="char:EOLhyphen"/>ver perfectly underſtand all the Beau<g ref="char:EOLhyphen"/>ties of the Latine Poets. I cannot approve, ſaid <hi>Julio,</hi> of the word <hi>Mob,</hi> in theſe Verſes, which tho ſignificant enough, yet it is a word but of Late Uſe, and not ſufficiently Naturalized to appear in a ſerious Poem: Beſides, I eſteem it a kind of Burleſque word, and unſutable to the Dignity of <hi>Ho<g ref="char:EOLhyphen"/>race.</hi> There is an other word, ſaid <hi>Mitis,</hi> which I cannot paſs without a Remark; and that is the Particle, <hi>Nay,</hi> which I know is of Common uſe in Proſe to highten and aggravate the Subject of Diſcourſe, but I can<g ref="char:EOLhyphen"/>not think it graceful in Verſe, as a too familiar and ſlight way of ſpeaking. 'Tis without all queſtion, there are
+<pb n="43" facs="tcp:106814:26"/> ſome words which are allowable in Proſe, but not in a Poem; ſuch as the word <hi>Lad,</hi> which the Great <hi>Cowley</hi> tells in the Notes on his <hi>Davideis,</hi> is not proper to be Read in an He<g ref="char:EOLhyphen"/>roick Poem, and therefore uſes the Word <hi>Boy</hi> inſtead of it; and yet the word <hi>Lad</hi> is prefer'd in the Engliſh Tranſlation of the Scriptures, from whence he takes the Argument and Foundation of his Work. After this it came in Courſe to a Gentleman whoſe Name I have forgot, to pro<g ref="char:EOLhyphen"/>duce his Specimen; he told the Com<g ref="char:EOLhyphen"/>pany, that he had lately happen'd up<g ref="char:EOLhyphen"/>on a French Epigram of a New and ſurpriſing Turn, the manner of the Poets expreſſing his Deſign, in the Cloſe, pleas'd me ſo well, ſaid he, that I cou'd not forbear trying, how the Thought wou'd ſhew in Engliſh. It is an Addreſs to Cardinal <hi>Richelieu,</hi> form'd in ſuch an Air, that in my mind, it is the neateſt (or if you will) the gentileſt way of begging a great Man's favour, not without ſomething like Reproach for neglect, that ever I met with. The French is this,</p>
+               <q>
+                  <lg>
+                     <pb n="44" facs="tcp:106814:27"/>
+                     <l>
+                        <hi>Armand,</hi> l'aage afioiblit mes yeux,</l>
+                     <l>Et tout ma chaleur me quitte:</l>
+                     <l>Je verray bien toſt mes ayeux</l>
+                     <l>Sur le rivage du Cocyte:</l>
+                     <l>Je ſeray bientoſt des ſuivans</l>
+                     <l>De ce bon Monarque de France</l>
+                     <l>Qui fut le Pere des ſcavans</l>
+                     <l>En un ſeicle pleine d'ignorance.</l>
+                     <l>Lors que j'approcheray de luy,</l>
+                     <l>Il voudra que Je lui raconte</l>
+                     <l>Tout ce que tu fais aujourduy</l>
+                     <l>Pour combler l'Eſpagne de honte.</l>
+                     <l>Je contenteray ſon deſir,</l>
+                     <l>Et par le recit de ta vie</l>
+                     <l>Je charmeray le déplaiſir</l>
+                     <l>Qu'il receut au Champ de Pavie.</l>
+                     <l>Mais s'il demande en quel employ</l>
+                     <l>Tu m'as tenu dedans le monde,</l>
+                     <l>Et quel bien j'ay receu de toy,</l>
+                     <l>Que veux-tu que je luy reponde?</l>
+                  </lg>
+               </q>
+               <p>And my Engliſh this,</p>
+               <q>
+                  <lg>
+                     <l>Old Age begins to call; I ſoon muſt go</l>
+                     <l>To my laſt home, in the Dark World below,</l>
+                     <l>Where buſie Souls will Crowd ſome News to know.</l>
+                  </lg>
+                  <lg>
+                     <l>There I ſhall tell, <hi>Armand,</hi> of your Renown,</l>
+                     <l>The Voice of every Country, every Town;</l>
+                     <l>What Wonders you have done to ſerve the Crown.</l>
+                  </lg>
+                  <lg>
+                     <pb n="45" facs="tcp:106814:27"/>
+                     <l>How Wiſe, how Great, in every god like Deed,</l>
+                     <l>How bountiful you are to all that need,</l>
+                     <l>But moſt where Learning ſpeaks, or Merits plead.</l>
+                  </lg>
+                  <lg>
+                     <l>When they ſhall ask, as ten to one ſome may,</l>
+                     <l>What you have done for me, tell me I pray,</l>
+                     <l>Illuſtrious Sir, what wou'd you have me ſay?</l>
+                  </lg>
+               </q>
+               <p>Believe me Sir, ſaid <hi>Liſander,</hi> you have hanſomly and well expreſt the Authors Turn of Thought in the Con<g ref="char:EOLhyphen"/>cluſion, but I muſt needs ſay, you have ſo little obſerved the Authors Expreſſions in all that goes before, that in my Opinion, this cannot pro<g ref="char:EOLhyphen"/>perly be called a Tranſlation, but ra<g ref="char:EOLhyphen"/>ther ſome Verſes writ in imitation of the French. You have well Para<g ref="char:EOLhyphen"/>phraſed the Author's meaning in the main; but certainly as a good Tranſlation ought not on the one hand, to be Literal or Verbal without a due Liberty to the property of Ex<g ref="char:EOLhyphen"/>preſſion in our Language; ſo on the the other, it muſt not be a meer Pa<g ref="char:EOLhyphen"/>raphraſe on the Author's General De<g ref="char:EOLhyphen"/>ſign, without any reſpect to his form
+<pb n="46" facs="tcp:106814:28"/> of expreſſion. <hi>Julio</hi> added, that he could wiſh the word <hi>what</hi> had not been twice uſed ſo cloſe together in the two laſt Lines, <hi>What you have,</hi> and <hi>what wou'd you,</hi> for beſides that correct Writers forbear to repeat the ſame words near the place where they have been uſed already, (unleſs the Enargy of the ſenſe does abſolutely require it) the word <hi>what</hi> is harſh and unplea<g ref="char:EOLhyphen"/>ſant in the Engliſh Tongue, as the word <hi>Car</hi> in the French; which <hi>Mon<g ref="char:EOLhyphen"/>ſieur de Gomberville</hi> one of thoſe Select Wits who compoſed the French Aca<g ref="char:EOLhyphen"/>demy, rejected as offenſive, and fitter for a Diſputation than a Romance or Poem; and brag'd that he had not at all made uſe of that word in com<g ref="char:EOLhyphen"/>poſing the five Volumes of <hi>Polexander.</hi> After this <hi>Mitis</hi> produced Mr. <hi>Cowleys</hi> Epitaph in <hi>Weſtminſter</hi> Abby, ren<g ref="char:EOLhyphen"/>der'd by him into Engliſh.</p>
+               <q>
+                  <lg>
+                     <l>Aurea dum uolitant latè tua ſcripta per orbem</l>
+                     <l>Et famâ aeternùm vivis, divine Poeta,</l>
+                     <l>Hic placidâ jaceas requie: Cuſtodiant urnam</l>
+                     <l>Cana fides; vigilcnt<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> perenni lampade Muſae:</l>
+                     <l>Sit ſacer iſte locus, nec quis temerarius auſit</l>
+                     <l>Sacrilega turbare man<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> venerabile Buſtum.</l>
+                     <pb n="47" facs="tcp:106814:28"/>
+                     <l>Intacti maneant, maneant per ſecula dulcis</l>
+                     <l>
+                        <hi>Couleii</hi> 
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ineres, ſervent<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> immobile Saxum.</l>
+                  </lg>
+                  <lg>
+                     <l>Immortal in his Fame, which daily Flies</l>
+                     <l>About the Globe, here Divine <hi>Cowley</hi> lies.</l>
+                     <l>His Urne inviolate all Ages keep:</l>
+                     <l>Here let the Muſes ever Watch, and Weep.</l>
+                     <l>For ever Holy let this place remain,</l>
+                     <l>Untrod by Sacrilegious and Prophane</l>
+                     <l>Eternal Peace Sweet <hi>Cowley</hi> guard; and may</l>
+                     <l>His Name preſerve this Marble from decay.</l>
+                  </lg>
+               </q>
+               <p>
+                  <hi>Belamy</hi> who had been ſilent a long while, this dry Diſcourſe being inſipid to him; cou'd not now forbear obſer<g ref="char:EOLhyphen"/>ving to <hi>Mitis</hi> (his Old Antagoniſt) that in his Opinion he has taken too great a Liberty in the beginning of his Verſion, the Latine mentioning <hi>Cowley</hi> in the ſecond Perſon, which he has vary'd in the Engliſh to the third, contrary (as he thinks) to the Rules of a True and Juſt Tranſlation. <hi>Julio</hi> ſaid, that his addition of the Word <hi>weep,</hi> tho' i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> does really improve the ſenſe, yet being placed unluckily at the end of the Line, looks as if it was taken in, only for the Rhime ſake. <hi>Liſander</hi> obſerved, that the Concluſion
+<pb n="48" facs="tcp:106814:29"/> of this Epitaph (eſpecially as <hi>Mitis</hi> has expreſt it in Engliſh) has much the like thought with that compoſed for <hi>Michael Drayton</hi> whoſe Monument is very little diſtant from Mr. <hi>Cowley</hi>'s, and that the ſenſe of their Epitaphs in this particular, is almoſt as near as their Graves; for thus the Compoſer of Mr. <hi>Drayton</hi>'s Epitaph is ſuppoſed to ſpeak to the Marble that covers him.</p>
+               <q>
+                  <lg>
+                     <l>And when thy Ruins ſhall diſclaim</l>
+                     <l>To be the Treaſury of his Name,</l>
+                     <l>His Name that cannot dye ſhall be</l>
+                     <l>An Everlaſting Monument to thee.</l>
+                  </lg>
+               </q>
+               <p>Here <hi>Julio</hi> was call'd upon to pro<g ref="char:EOLhyphen"/>duce his Eſſay of Tranſlation. He ſaid he had lately chopt upon ſome Latine Verſes which he found written before a <hi>Burtons</hi> Melancholy, the Author of which Book aſſumed the Name of <hi>De<g ref="char:EOLhyphen"/>mocritus</hi> Junior.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Heraclite</hi> fleas, miſero ſic convenit Aevo,</l>
+                     <l>Nil niſi triſte vides, nil niſi Turpe vides.</l>
+                     <l>Tu ride quantum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> lubet, <hi>Democrite,</hi> ride,</l>
+                     <l>Non niſi vana vides, non niſi ſtulta vides.</l>
+                  </lg>
+                  <lg>
+                     <pb n="49" facs="tcp:106814:29"/>
+                     <l>Is fletu, hic riſu modo gaudeant, unus utri<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </l>
+                     <l>Sit licet uſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Labor, ſit licet uſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Dolor.</l>
+                     <l>Nunc opus eſt (nam totus eheu! jam deſipit Orbis)</l>
+                     <l>Mille Heraclitis, mille<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Democritis.</l>
+                     <l>Nunc opus eſt (tanta eſt inſania) tranſeat omnis</l>
+                     <l>Orbis in Anticyras, gramen in Helleborum</l>
+                  </lg>
+               </q>
+               <p>The Latine pleaſed me ſo well, con<g ref="char:EOLhyphen"/>tinued <hi>Julio,</hi> that I tryed to turn 'em into Engliſh; but ſo unſucceſsfully, that I am aſhamed of the Attempt.</p>
+               <q>
+                  <lg>
+                     <l>Now <hi>Heraclitus,</hi> let thy Salt Showers fall;</l>
+                     <l>Since all you ſee is ſad, and wretched all.</l>
+                     <l>Now Laugh, <hi>Democritus,</hi> and burſt thy Spleen;</l>
+                     <l>Nothing but vain, and Ridicule, is ſeen.</l>
+                     <l>To both your Paſſions give their full Careers;</l>
+                     <l>More than ſufficient cauſe for both appears.</l>
+                     <l>Th'unhappy Age wants thouſands ſuch as you</l>
+                     <l>To Weep, to Laugh, yet all wou'd be too few</l>
+                     <l>Th'unhappy Age wants no Proviſion more</l>
+                     <l>Than Towns of Bedlams, Fields of Hellebore.</l>
+                  </lg>
+               </q>
+               <p>As <hi>Julio</hi> had before play'd the Critick on the ſeveral Tranſlations of all the Company, ſo now every Man thought himſelf obliged to make ſome Re<g ref="char:EOLhyphen"/>mark on his. <hi>Mitis</hi> ſaid, that he had uſed more figurative Expreſſions in his Engliſh, than the Author had in the
+<pb n="50" facs="tcp:106814:30"/> Latine, ſuch as <hi>let thy Salt Showers fall,</hi> inſtead of <hi>Fleas.</hi> And that in his Opinion, Figures are leſs allowable in our Language than in the Roman. <hi>Charleſon</hi> ſaid his Addition, <hi>yet all wou'd be too few,</hi> admits of the ſame exception, which himſelf made but juſt before to <hi>Mitis</hi> about the word <hi>Weep,</hi> and one need only repeat his own Words, [tho' it does ſomewhat improve the Authors thought, yet being placed unluckily at the end of the Line, it looks as if it were taken in, only for the Rhime's ſake] ſo com<g ref="char:EOLhyphen"/>mon a thing is it for a man to trip in the very place where he obſerved ano<g ref="char:EOLhyphen"/>ther to ſtumble. A third ſaid, if thoſe words were not added for the Rhime's ſake, yet he fears the word <hi>Careers</hi> in the Plural was, for I fancy, continued he, had it Rhimed, <hi>Career</hi> in the ſin<g ref="char:EOLhyphen"/>gular had been better Engliſh: Yet it ſeems to me to be but an untoward and ill choſen Word, at beſt. Others made other Obſervations of leſs Note, which I have forgot. <hi>Julio</hi> thankt the Company for the Honour they did him in examining his Verſes more
+<pb n="51" facs="tcp:106814:30"/> cloſely than the others; but, added he, after all you have not diſcover'd half the Faults. In ſuch like Diſcour<g ref="char:EOLhyphen"/>ſes the time ſlipt away inſenſibly; when <hi>Liſander</hi> having obſerved the Sun near ſetting, riſe up from his Seat, and ended the Friendly Debate with this Verſe of <hi>Virgil,</hi>
+               </p>
+               <q>Claudite jam Rivos, Pueri, ſat prata biberunt.</q>
+               <p>I cannot imagine, ſaid <hi>Belamy,</hi> how you apply that; for if you deſign it to us, nothing can be more improper; ſince we are ſo far from having drunk enough, that Drink is the only thing that has been wanting. If you love me therefore, let us make all conve<g ref="char:EOLhyphen"/>nient haſt back to your houſe, <hi>Liſandey,</hi> and redeem the time, for really I have loſt an Afternoon ſtrangely. They all ſmiled, and return'd. As they walkt <hi>Julio</hi> acknowledged he began to be tired with the Afternoons Work; whick lookt ſo like School-Boys pro<g ref="char:EOLhyphen"/>ducing their Exerciſe, that he cou'd not chooſe but remember with a kind of Terror, the Rod and Ferula. True,
+<pb n="52" facs="tcp:106814:31"/> ſaid <hi>Mitis,</hi> we were all like School-Boys in one reſpect, but we were all Maſters in another, ſince we all judged, Cenſured, and Corrected. Or as <hi>Ovid</hi> ſays of <hi>Baucis</hi> and <hi>Philemon,</hi>
+               </p>
+               <q>—Iidem jubent<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> parent<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </q>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IV. <hi>Of Painting and Painters.</hi>
+               </head>
+               <p>AMong other Viſits which <hi>Liſan<g ref="char:EOLhyphen"/>der</hi> and his two Friends were obliged to repay, one was to <hi>Eugenius,</hi> a Gentleman whoſe Seat was about Seven or Eight Miles diſtant from that of <hi>Liſander, Eugenius</hi> had Travell'd in his younger years, and perform'd the Grand Toure; after his return in<g ref="char:EOLhyphen"/>to <hi>England,</hi> he had lived at Court in a very handſome Station, but ſome years ſince he had quitted his Office there, and given himſelf wholly to a Country Retirement. Since when he imploy'd himſelf much after the <hi>Ita<g ref="char:EOLhyphen"/>lian</hi>
+                  <pb n="53" facs="tcp:106814:31"/> Faſhion in Building, and imbeliſh<g ref="char:EOLhyphen"/>ing his Houſe and Gardens. Out of the Ruins of an Old Priory he had ere<g ref="char:EOLhyphen"/>cted one of the Neateſt Houſes in that County for true and Regular Archite<g ref="char:EOLhyphen"/>cture, and Curious Contrivance. It was choicely furniſht within, but in no particular more ſingular and obſer<g ref="char:EOLhyphen"/>vable than for a Select and valuable Collection of Original Paintings, which he had purchaſed, at a very conſiderable expence, in <hi>Italy</hi> and <hi>France.</hi> He had always a Great fan<g ref="char:EOLhyphen"/>cy for the Art of Deſigning, and had been taught ſomething of it when young, which he had extreamly im<g ref="char:EOLhyphen"/>proved by the Inſtructions of the beſt Maſters at <hi>Rome.</hi> In his later times of Leaſure he uſed the Penſil often, which he call'd his moſt pleaſing Di<g ref="char:EOLhyphen"/>verſion, and his Idle Hours more Ho<g ref="char:EOLhyphen"/>neſtly imploy'd than in that which ſome call buſineſs. His Genius incli<g ref="char:EOLhyphen"/>ned him moſt to Landskip-Painting in which he had a very pretty manner, and almoſt all that he performed ap<g ref="char:EOLhyphen"/>pear'd with a free and Noble Guſt. <hi>Mitis</hi> and <hi>Julio</hi> no ſooner approach'd
+<pb n="54" facs="tcp:106814:32"/> the Houſe, but they took Notice of ſome of the Old Ruins, which <hi>Euge<g ref="char:EOLhyphen"/>nius</hi> had purpoſely left ſtanding at a little Diſtance, eſteeming ſuch Marks of Venerable Antiquity, no blemiſh, but rather Beauty, like the Ruins of Old <hi>Rome</hi> among the Modern Palaces. One might eaſily perceive where the Church and Cloyſter had been, by the Remains of an Old Wall, which lookt as if it had Wreſtled with an Earthquake; and tho' the Legs, and Arms, and even its very Neck were broken, yet the heart remain'd ſtill firm and unſhaken. <hi>Julio</hi> who omit<g ref="char:EOLhyphen"/>ed no occaſion to Magnifie the Wit of the Dramatick Poets of the laſt Age, ſaid, this Object has the Beauty of an old Medal; the Sight is like that of a Good Picture, where all the while a Man views it, his Phanſie is ſtill work<g ref="char:EOLhyphen"/>ing, and the more he looks, the more he diſcovers to pleaſe him. Nothing can poſſibly better ſute with my Thoughts on this Occaſion, than what <hi>Antonio</hi> ſays in <hi>the Dutcheſs of Malfy,</hi> a Tragedy Writ by <hi>Webſter.</hi>
+               </p>
+               <q>
+                  <pb n="55" facs="tcp:106814:32"/>
+                  <l>I do love theſe Antient Ruins. VVe never</l>
+                  <l>Tread on them, but we ſet our Foot upon</l>
+                  <l>Some Reverend Hiſtory. And queſtionleſs</l>
+                  <l>Here in this open Court, which now lyes Naked</l>
+                  <l>To the Injuries of Stormy VVeather,</l>
+                  <l>Some lie inter'd who loved the Church ſo well,</l>
+                  <l>And gave ſo largely to it, they thought it wou'd</l>
+                  <l>Have Canopy'd their Bones till Domeſday:</l>
+                  <l>But all things have their End. Churches and Cities</l>
+                  <l>Which have Diſeaſes like to Men, muſt have</l>
+                  <l>Like Death as we have.</l>
+               </q>
+               <p>
+                  <hi>Eugenius</hi> who had diſcover'd their coming, received them in his outward Court with great Civility. After the uſual Complements were over, <hi>Mitis</hi> could not forbear to extol the Delica<g ref="char:EOLhyphen"/>cy of the Scituation, proteſting that he never beheld a Circle of Proſpects, or as the French call it <hi>les Environs</hi> more agreeable than what <hi>Eugenius</hi> enjoys from this Seat, which to me (ſaid he) ſeems the very Center of Delights. But you will perhaps, ſaid <hi>Liſander,</hi> be more ſurprized with Ad<g ref="char:EOLhyphen"/>miration when you enter the Houſe, and ſee how Artificially <hi>Eugenius</hi> has contracted the whole Circle into the
+<pb n="56" facs="tcp:106814:33"/> Center. <hi>Mitis</hi> expreſt a kind of im<g ref="char:EOLhyphen"/>patiency to behold ſo great a Rarity. <hi>Eugenius</hi> therefore readily conducted the Company into a very fair with<g ref="char:EOLhyphen"/>drawing Room, Curiouſly Wainſcot<g ref="char:EOLhyphen"/>ed with Cedar; ſome Parts of the Corniſh and Frames were Gilded; the Pannels, which were Large and High, contain'd ſo many Landskips; they were all the ſeveral Views about the Lordſhip, not the leaſt thing omit<g ref="char:EOLhyphen"/>ed that was any way Remarkable, and ſo Artificially placed, that they were poſited exactly as the Real pla<g ref="char:EOLhyphen"/>ces lay, according to the Compaſs, for the Room was not ſquare, but contrived orbicular, or rather caſt into ſixteen Angles, the Pannels not being Concave, but Flat. <hi>Julio</hi> ad<g ref="char:EOLhyphen"/>mired the Contrivance, and thought he could never ſufficiently Applaud both the Deſign and performance. <hi>Mitis,</hi> who was himſelf a Lover, and had ſome Competent Judgment in the Art, after he had viewed 'em very in<g ref="char:EOLhyphen"/>tently ſometime, ſaid, here is one Beauty and Excellent Decorum in theſe Landskips, which I believe is not ob<g ref="char:EOLhyphen"/>ſerved
+<pb n="57" facs="tcp:106814:33"/> by every one that ſees them. Tho' they are ſeveral Pieces, yet the Shadows of all are ſo placed, as if they were all ſeen at the ſame time of the Day, which makes every Pannel, ſhew like a ſeveral Window, and the Picture no more than a view in Per<g ref="char:EOLhyphen"/>ſpective. You obſerve Right Sir, ſaid <hi>Eugenius,</hi> 'twas ſo intended; for if the ſhadows had in the ſeveral Pictures, been placed more ways than one, and that not anſwering and agreeing in all, it would have lookt as if there had been ſeveral Suns ſhining in one Hemiſphere. You may ſuppoſe there<g ref="char:EOLhyphen"/>fore, that you ſee all theſe Objects two or three hours after Sun Riſe about Midſummer, which I eſteem the plea<g ref="char:EOLhyphen"/>ſanteſt part of the Day, and of the year. But theſe are Trifles, the next Room will ſhew you ſomething more worth your Sight, hereupon he led them into a Large Gallery Richly A<g ref="char:EOLhyphen"/>dorn'd with choice <hi>Italian</hi> Paintings: There was hardly a Great Name in <hi>Italy,</hi> but he had there ſome of his Work, with ſome of the beſt of the <hi>Flemings,</hi> and Plenty of <hi>Vandikes</hi> Por<g ref="char:EOLhyphen"/>traits.
+<pb n="58" facs="tcp:106814:34"/> He had alſo ſome Excellent Sculptures of Cavalier <hi>Bernini,</hi> and our own Mr. <hi>Gibbon. Julio</hi> proteſted that the Sight only of this Gallery was richly worth a Journey from <hi>London,</hi> or from any other, tho' it be the fur<g ref="char:EOLhyphen"/>theſt, part of <hi>England. Mitis</hi> ſaid he was confounded with ſo many ad<g ref="char:EOLhyphen"/>mirable Objects, each having its par<g ref="char:EOLhyphen"/>ticular Excellency tho in a different Manner of Expreſſion. <hi>Liſander</hi> beg'd that <hi>Eugenius</hi> wou'd favour him with ſome Rules whereby to judge of the Great Maſters, and their ſeveral and peculiar Manners. <hi>Eugenius</hi>'s Modeſt<g ref="char:EOLhyphen"/>ly excuſed himſelf, ſaying, he was but an ill Inſtructor in an Art which he did not well underſtand himſelf; but having been lately reading in a French Author, ſomething which re<g ref="char:EOLhyphen"/>lates to this Queſtion, he will repeat it in Engliiſh as well as he can. They are, ſaid he,</p>
+               <div type="essay">
+                  <pb n="56" facs="tcp:106814:34"/>
+                  <head>
+                     <hi>The Sentiments of</hi> Charles Al<g ref="char:EOLhyphen"/>phonſe Du Freſnoy, <hi>on the Works of the Principal and beſt Painters of the laſt Ages.</hi>
+                  </head>
+                  <p>PAinting was in its Perfection a<g ref="char:EOLhyphen"/>mong the Antient Greeks. The Principal Schools were at <hi>Sicyon,</hi> and after at <hi>Rhodes, Athens, Corinth,</hi> and laſtly at <hi>Rome.</hi> War and Luxury ha<g ref="char:EOLhyphen"/>ving diſſipated the Roman Empire, all Curious Arts, all polite Learning, and other Sciences, became extinct. But this began to appear again in the year 1450, among the Florentines, one of whom was <hi>Dominico Ghirlandi,</hi> Maſter of <hi>Michael Angelo,</hi> a Painter of ſome Conſiderable Name, tho' his manner was Gothick, and very dry.</p>
+                  <p>
+                     <hi>Michael Angelo,</hi> his Diſciple, ap<g ref="char:EOLhyphen"/>pear'd in the time of <hi>Julius</hi> II, <hi>Leo</hi> X, <hi>Paul</hi> III, and eight ſucceeding Popes. He was not only a Pain<g ref="char:EOLhyphen"/>ter, but a Sculptor, and Architect
+<pb n="60" facs="tcp:106814:35"/> Civil and Military. The choice which he made of his <note n="*" place="margin">The Poſture and Action that any Fi<g ref="char:EOLhyphen"/>gure is repreſented in.</note> Attitudes was not al<g ref="char:EOLhyphen"/>ways excellent, nor pleaſing. His <note n="†" place="margin">The Reliſh or Delight Reſulting from the whole, alſo the manner.</note> Guſt in deſigning cannot be ſaid to be the fineſt, nor his <note n="*" place="margin">The Outward Lines.</note> Contour the moſt Elegant. His folds of Garments, and Habits, were not very Beautiful nor Gracious.</p>
+                  <p>He is ſomewhat Fantaſtic and ex<g ref="char:EOLhyphen"/>travagant in his Compoſitions, Raſh and Hardy in taking to himſelf Li<g ref="char:EOLhyphen"/>cence againſt the Rules of Perſpective. His Colouring is not very True nor pleaſant. He knew not the Art of <note n="†" place="margin">The Art of diſ<g ref="char:EOLhyphen"/>poſing the Lights and Shadows skil<g ref="char:EOLhyphen"/>fully.</note> 
+                     <hi>Clair-obſcur.</hi> He deſigned, and under<g ref="char:EOLhyphen"/>ſtood the Connexion of the Bones, the Function, and Scituation of the Muſcles better than any of the Painters among the Moderns. He expreſt a certain Grandeur and Security in his Figures, which took well in many places. But above all he was the greateſt Archi<g ref="char:EOLhyphen"/>tect that ever we knew of, having
+<pb n="61" facs="tcp:106814:35"/> excell'd even the Antients themſelves. Witneſs St. <hi>Peter</hi>'s at <hi>Rome,</hi> St. <hi>John's</hi> at <hi>Florence,</hi> the Capitol, the Palace <hi>Farneſe,</hi> and his own Houſe. His Diſ<g ref="char:EOLhyphen"/>ciples were <hi>Marcel Venuſte, Andrew de Vattere, le Roſſe, George Vaſare, Fra Baſtian</hi> who uſually Painted for him, with ſeveral other <hi>Florentines.</hi>
+                  </p>
+                  <p>
+                     <hi>Peter Perugin,</hi> deſign'd with ſuffi<g ref="char:EOLhyphen"/>cient Intelligence of Nature, but it was Dry and Wither'd, and after a little Manner. He had for Diſciple.</p>
+                  <p>
+                     <hi>Raphiel Santio,</hi> who was born on <hi>Good-Friday</hi> in the year 1483, and died on <hi>Good-Friday</hi> in the year 1520, having lived but 37 years. He has ſurpaſt all the Modern Painters, in ha<g ref="char:EOLhyphen"/>ving more excellent parts in him all at once, and ſome think he equall'd the Antients, except in this that he did not deſign Naked Figures ſo skil<g ref="char:EOLhyphen"/>fully as <hi>Michael Angelo.</hi> But his Guſt in deſigning is much more pure, and finer. His Painting was not ſo good, ſo full, and of ſo Gracious a manner, as that of <hi>Corregio;</hi> nor had he the Contraſte or Oppoſition of <hi>Clair-obſcur,</hi> and the fierce and clean Colouring of
+<pb n="62" facs="tcp:106814:36"/> 
+                     <hi>Titian.</hi> But without Compariſon, he had a better diſpoſition in his Pieces than <hi>Titian, Corregio, Michael Angelo,</hi> and all other Painters that have ever been ſince that time. His choice of Attitudes, of Heads, of Ornaments, of his manner of Drapery, his manner of deſigning, his Varieties, his Con<g ref="char:EOLhyphen"/>traſtes, his Expreſſions were all per<g ref="char:EOLhyphen"/>fectly good; but above all the Graces of his Pictures were ſuch as no Man ever came near. His <note n="*" place="margin">Heads Painted after the Life.</note> 
+                     <hi>Portraits</hi> are very well eſteem'd. He was an excellent Architect. He was hand<g ref="char:EOLhyphen"/>ſom, Tall, Civil and Obliging, never refuſing to inform any one in what he knew. He had many Diſciples, among others <hi>Julio Romano, Polidore, Gaudens, John d'<g ref="char:V">Ʋ</g>dine, and Michael Coxis.</hi> His Graver was <hi>Marck Antoine,</hi> whoſe Prints are admirable for the Correction of the <hi>Contours.</hi>
+                  </p>
+                  <p>
+                     <hi>Julio Romano</hi> was the moſt excel<g ref="char:EOLhyphen"/>lent of all <hi>Raphiels</hi> Diſciples, and had ſome Conceptions more extraordi<g ref="char:EOLhyphen"/>nary, more profound, and more Ma<g ref="char:EOLhyphen"/>jeſtick than his Maſter. He was alſo
+<pb n="63" facs="tcp:106814:36"/> a great Architect; of a <hi>Guſt</hi> Pure and Neat; a great imitator of the Anti<g ref="char:EOLhyphen"/>ents, diſcovering in all his Works his deſire to reſtore the Old Fotms and Fabricks of paſt Ages, to the Modern Practice. He had the good fortune to have perſons of great Quality who rely'd wholly upon him for Buildings, <note n="*" place="margin">Terms in Archi<g ref="char:EOLhyphen"/>tecture, relating to ſeveral forms of Building.</note> 
+                     <hi>Veſtibu<g ref="char:EOLhyphen"/>les, Tetraſtile Portico's, Xiſtes, Theaters,</hi> and ſuch other Places, not now in uſe. He had a Wonderful Judg<g ref="char:EOLhyphen"/>ment in the Election of <hi>Attitudes.</hi> His manner was the Hardeſt and dry<g ref="char:EOLhyphen"/>eſt of all the School of <hi>Raphael;</hi> he did not very well underſtand the <hi>Clair<g ref="char:EOLhyphen"/>obſcur,</hi> and way of Colouring. He is ſtiff and ungraceful in many places. The folds of his Draperies are neither Beautiful, nor Great, nor Eaſie, not Natural, but all Fantaſtick and which reſemble ſomething the Habits of ill Comedians. He was very intelligent in all polite Learning. His Diſciples were <hi>Pirro Ligorio,</hi> admirable for antique Buildings, Towns, Temples, Tombs, Trophies, and the Scituation of all
+<pb n="64" facs="tcp:106814:37"/> Old Structures, <hi>Eneas Vico, Bonaſone, George Mantuan</hi> and others.</p>
+                  <p>
+                     <hi>Polidore,</hi> a Diſciple of <hi>Raphaels,</hi> was Wonderful excellent at deſigning Pratique, having a peculiar Genius for Friſes, as appears by thoſe he Painted at <hi>Rome</hi> in Black and White. He imitated the <note n="*" place="margin">the Antient Paintings and Sculp<g ref="char:EOLhyphen"/>ture.</note> 
+                     <hi>An<g ref="char:EOLhyphen"/>tique,</hi> in a greater man<g ref="char:EOLhyphen"/>ner than <hi>Julio Romano,</hi> but <hi>Julio</hi> ſeems to be trueſt. One may ſee in his Works, ſome admirable <note n="†" place="margin">A Knot or amaſement of Fi<g ref="char:EOLhyphen"/>gures ſtanding to<g ref="char:EOLhyphen"/>gether.</note> 
+                     <hi>Grou<g ref="char:EOLhyphen"/>pes</hi> ſuch as are not to be ſeen elſewhere. His Colouring was extream<g ref="char:EOLhyphen"/>ly Rare, and he has done ſome Landskips of a good <hi>Guſt.</hi>
+                  </p>
+                  <p>At <hi>Venice, John Bellin</hi> was one of the firſt that was taken Notice of, his Painting was extream dry after the manner of that Age. He very well underſtood Architecture and Per<g ref="char:EOLhyphen"/>ſpective. He was <hi>Titians</hi> firſt Maſter, as one may perceive by the firſt Works of that Illuſtrious Diſciple of his, in which is ſeen a property of Co<g ref="char:EOLhyphen"/>lours ſuch as his Maſter uſed.</p>
+                  <pb n="65" facs="tcp:106814:37"/>
+                  <p> About the ſame time <hi>Georgion,</hi> co<g ref="char:EOLhyphen"/>temporary with <hi>Titian,</hi> became excellent for <hi>Portraits</hi> and Great Pie<g ref="char:EOLhyphen"/>ces. This was he who firſt took up the Election of Colours fierce and a<g ref="char:EOLhyphen"/>greeable, which was after brought to perfection and the intire Harmony which appears in <hi>Titians</hi> Pictures. He ſet off his Figures extreamly well; and one may ſay, that had it not been for him, <hi>Titian</hi> had never riſe to the degree of Excellency, for it was cau<g ref="char:EOLhyphen"/>ſed chiefly by the Emulation and Jea<g ref="char:EOLhyphen"/>louſie that was betwixt theſe two.</p>
+                  <p>
+                     <hi>Titian</hi> was one of the greateſt Co<g ref="char:EOLhyphen"/>louriſts that ever was in the World. He deſigned with much more facility and experience than <hi>Georgion.</hi> The Women and Children of his hand are admirable for deſign and Colour, the Guſt being Delicate, Neat and Noble, with a kind of pleaſing Negligence in the Dreſs, in the Draperies, and Fur<g ref="char:EOLhyphen"/>niture, peculiar to him. His Figures of Men are ſuch as nothing can be bet<g ref="char:EOLhyphen"/>ter deſigned; however there are ſome of his Draperies that are ſomewhat ſad, and of little Guſt. His Painting
+<pb n="66" facs="tcp:106814:38"/> is extream fierce, ſweet, and precious. His Portraits were Wonderfully Beau<g ref="char:EOLhyphen"/>tiful, his Attitudes extream handſom, grave, varied, and adorn'd after a moſt advantagious manner. Never Man wrought Landskips of ſo great a manner, of ſo good a Colouring, and expreſſing ſo much Truth. For the ſpace of eight or ten years toge<g ref="char:EOLhyphen"/>ther, he copy'd with great exactneſs all that he did, to gain to himſelf a more eaſie Road, and to eſtabliſh him<g ref="char:EOLhyphen"/>ſelf in the general Maxims. Beſides that excellent Guſt in Colouring, which he had above others, he per<g ref="char:EOLhyphen"/>fectly underſtood how to give every thing its proper touches, whereby they are diſtinguiſht from one ano<g ref="char:EOLhyphen"/>ther, and which gives 'em more Spi<g ref="char:EOLhyphen"/>rit and Life. The Pictures which he made at his beginning, and towards his latter end, are of a dry and lean manner. He lived 101 years; and had for his Diſciples <hi>Paul Veroneſe, James Tintoret, James Dupout, Baſſan</hi> and his Brothers.</p>
+                  <p>
+                     <hi>Paul Veroneſe</hi> expreſſed an extream Grace in the Airs of Women, with
+<pb n="67" facs="tcp:106814:38"/> great diverſity of changeable Drape<g ref="char:EOLhyphen"/>peries, and incredible vivacity and facility, notwithſtanding his Compo<g ref="char:EOLhyphen"/>ſition was Barbarous, and his deſign not correct; but the Colouring and all that depends thereon, was ſo ad<g ref="char:EOLhyphen"/>mirable in his Pictures, that it ſurpri<g ref="char:EOLhyphen"/>ſed at firſt ſight, and cauſed all other Faults to be forgot.</p>
+                  <p>
+                     <hi>Tintoret,</hi> a Diſciple of <hi>Titian;</hi> he was a great Deſigner and <note n="*" place="margin">An Artiſt of a ready and expert Practice.</note> 
+                     <hi>Praticien,</hi> and ſome<g ref="char:EOLhyphen"/>times a great <note n="†" place="margin">One whoſe draw<g ref="char:EOLhyphen"/>ings are ſtrain'd, and extravagant.</note> 
+                     <hi>Stra<g ref="char:EOLhyphen"/>paſſon;</hi> he had an ad<g ref="char:EOLhyphen"/>mirable Genius for Painting, but his Affe<g ref="char:EOLhyphen"/>ction and Patience was not equal to his Fire and vivacity. He has made ſome Pictures of no leſs Beauty than thoſe of <hi>Titian.</hi> His Compoſition and his Dreſs are Barbarous for the moſt part, and his Contours are not very Correct; but his Colouring and all that depends on that is admirable.</p>
+                  <p>The <hi>Baſſans</hi> had a poorer and more miſerable Guſt in Painting than <hi>Tinto<g ref="char:EOLhyphen"/>ret,</hi> and deſign'd worſe than he. But they had an excellent Guſt in Colours,
+<pb n="68" facs="tcp:106814:39"/> and toucht up, or expreſt Animals af<g ref="char:EOLhyphen"/>ter a very good Manner, yet their Compoſition and deſign was very Bar<g ref="char:EOLhyphen"/>barous.</p>
+                  <p>At <hi>Parma, Corregio</hi> Painted two Great <hi>Cupulo's</hi> in <note n="*" place="margin">A ſort of Painting upon out<g ref="char:EOLhyphen"/>ward Walls.</note> 
+                     <hi>Freſ<g ref="char:EOLhyphen"/>quo,</hi> and ſeveral Altar Pieces. He had certain natural Graces, pecu<g ref="char:EOLhyphen"/>liar to himſelf, for all his Pictures of the Bleſſed Virgin, the Saints, and young Children. His manner is ex<g ref="char:EOLhyphen"/>tream great, as well for deſign, as for Workmanſhip, tho without Corre<g ref="char:EOLhyphen"/>ction. His Penſil is one of the moſt agreeable and eaſie, and one may ſay of him, that he Painted with ſuch a force, ſuch a relief, and ſuch a ſweet<g ref="char:EOLhyphen"/>neſs and vivacity of Colours, that he could do nothing better. He diſtribu<g ref="char:EOLhyphen"/>ted his Lights after a particular man<g ref="char:EOLhyphen"/>ner, ſuch as gave a great force and roundneſs to his Figures. It conſiſt<g ref="char:EOLhyphen"/>ed in extending his Lights to be large, and then loſing them inſenſibly in the dark Colours without the <note n="*" place="margin">The Maſſes are the ſtrongeſt Lights, and Shadows.</note> 
+                     <hi>Maſſes,</hi> which gave them a great
+<pb n="69" facs="tcp:106814:39"/> Roundneſs, without our perceiving from whence ſuch force and ſuch ſa<g ref="char:EOLhyphen"/>tisfaction to the Eye, ſhould proceed; and in this particular he ſeems to be followed by other Lombards. He had not the Election of handſom Attitudes, nor the diſtribution of comely Groups. His deſign often appears Lame, and his poſitions are not much obſerved. The Aſpects of his Figures are not un<g ref="char:EOLhyphen"/>pleaſant in many places: But his man<g ref="char:EOLhyphen"/>ner of deſigning the Heads, the Hands, the Feet, and other parts, is very great and good to imitate. In the Conduct and finiſhing a Picture, he did Miracles; for he Painted with ſuch Union, that his greateſt Works, ſeem'd to be the Product but of one day, and appear'd as if ſeen in a Look<g ref="char:EOLhyphen"/>ing glaſs. His Landskips were handſom, and correſpondent to his Figures.</p>
+                  <p>At the ſame time lived <hi>Parmigano,</hi> who beſides his great Manner in good Colouring, was excellent for Inven<g ref="char:EOLhyphen"/>tion and Deſign; he had a Genius full of Gentileneſs and Spirit, hauing nothing of Barbarous in his Choice of Attitudes, and in the Dreſs of his
+<pb n="70" facs="tcp:106814:40"/> Figures, which cannot be ſaid of <hi>Cor<g ref="char:EOLhyphen"/>regio.</hi> There are very handſom things and very correct of his.</p>
+                  <p>Theſe two Painters had very good Diſciples, but none but thoſe of that Country know who they were; how<g ref="char:EOLhyphen"/>ever we are not well aſſured of what they ſay, for Painting is there utterly extinct.</p>
+                  <p>I ſay nothing of <hi>Leonard de Vinci,</hi> becauſe I have ſeen but very few things of his doing; tho' he revived theſe Arts at <hi>Millain,</hi> and made many Diſciples.</p>
+                  <p>
+                     <hi>Lewis Carache</hi> Uncle of <hi>Hanibal,</hi> and Brother of <hi>Antonio,</hi> ſtudied at <hi>Parma</hi> after <hi>Corregio,</hi> and became ex<g ref="char:EOLhyphen"/>cellent in deſign and colouring, which he perform'd with ſuch Grace and Candor, that <hi>Guido</hi> a Diſciple of <hi>Han<g ref="char:EOLhyphen"/>nibal,</hi> did afterwards imitate him with much ſucceſs. There are of his Pi<g ref="char:EOLhyphen"/>ctures very Beautiful and well mana<g ref="char:EOLhyphen"/>ged. His ordinary reſidence was at <hi>Bologna;</hi> and it was he that firſt taught his Nephew <hi>Hannibal</hi> to uſe the Crayon.</p>
+                  <pb n="71" facs="tcp:106814:40"/>
+                  <p> 
+                     <hi>Annibal</hi> quickly out went his Ma<g ref="char:EOLhyphen"/>ſter in all particulars. He counterfei<g ref="char:EOLhyphen"/>ted <hi>Corregio, Titian,</hi> and <hi>Raphaels</hi> manner in different Pictures, except<g ref="char:EOLhyphen"/>ing that they want the Nobleneſs, the Grace, and the Delicacy of <hi>Raphael,</hi> and that his Cantours are not ſo Pure and ſo Elegant. For the reſt he was very accompliſht, and very Univerſal. His manner of deſigning is great and excellent. Expreſſing what he knew with an admirable Genius.</p>
+                  <p>
+                     <hi>Auguſtin,</hi> Brother of <hi>Annibal</hi> was alſo a good Painter, and a moſt excel<g ref="char:EOLhyphen"/>lent Graver. He had a Baſtard Son Named <hi>Antonio,</hi> who died at the Age of 23 or 24 years, who as 'tis thought, would certainly have ſurpaſt his Uncle, <hi>Annibal,</hi> for it ſeem'd, from what we ſee of his, that he would have taken a greater Flight.</p>
+                  <p>
+                     <hi>Guido</hi> imitated chiefly <hi>Lewis Carache,</hi> and always retain'd the ſame faſhion of Painting with <hi>Lawrence</hi> the <hi>Fleming,</hi> his Maſter, who dwelt at <hi>Bologna,</hi> and was Contemporary and an Emu<g ref="char:EOLhyphen"/>latour of the ſaid <hi>Lewis. Guido</hi> made uſe of <hi>Albert Durer</hi> as <hi>Virgil</hi> did of
+<pb n="72" facs="tcp:106814:41"/> the Poet <hi>Ennius,</hi> and this he turn'd into his own manner with ſuch Grace and Beauty, that he alone got more Money, and obtain'd more Reputation in his time, than his Maſters, and than all the Diſciples of the School of the <hi>Caraches,</hi> tho' more capable han the. His Heads are no ways inferior to thoſe of <hi>Raphiel.</hi>
+                  </p>
+                  <p>
+                     <hi>Siſto Badalocchi</hi> deſigned better than the other Diſciples; but he died young.</p>
+                  <p>
+                     <hi>Albano</hi> was excellent in all the parts of Painting, and was skill'd in the <hi>Belles Lettres,</hi> or polite Learning.</p>
+                  <p>
+                     <hi>Dominicano</hi> was a very skilful Paint<g ref="char:EOLhyphen"/>er, and very painful, being not other<g ref="char:EOLhyphen"/>wiſe advantaged by Nature. He was very profound in all that depends on Painting; however he ſeems to have leſs Majeſty than all the other Diſci<g ref="char:EOLhyphen"/>ples of the <hi>Caraches.</hi>
+                  </p>
+                  <p>
+                     <hi>John Lanfranc</hi> was of great Spirit and Vivacity, and continued long in an excellent Guſt of Deſign and Co<g ref="char:EOLhyphen"/>lour, but having no Foundation but the Practique, he quickly became lia<g ref="char:EOLhyphen"/>ble to Correction, in ſuch ſort that
+<pb n="73" facs="tcp:106814:41"/> we ſee many of his things very <note n="*" place="margin">Strain'd and extravagant.</note> 
+                     <hi>Strapaſſées</hi> where there was no oc<g ref="char:EOLhyphen"/>caſion for it. For the reſt of thoſe Diſciples, after the Death of their Maſter, they all grew worſe and worſe in every particular of Paint<g ref="char:EOLhyphen"/>ing.</p>
+                  <p>
+                     <hi>Viola</hi> begun to make Landskips when he was very Old. <hi>Hannibal</hi> took a delight to inſtruct him, and we may ſee ſeveral Pieces of his Work won<g ref="char:EOLhyphen"/>derfully handſom, and well colour'd.</p>
+                  <p>In <hi>Germany</hi> and the Low Countries <hi>Albert Durer, Lucas, Aldegrave, Isbin,</hi> and <hi>Holbin,</hi> were all of the ſame time. Among whom <hi>Albert,</hi> and <hi>Holbin,</hi> were very skilful, and had been of the firſt Rank had they ſeen <hi>Italy,</hi> for we can blame them for nothing but their <hi>Gothick</hi> Guſt, and chiefly <hi>Albert.</hi> As for <hi>Holbin,</hi> he carried the Execution beyond <hi>Raphael,</hi> and I have ſeen a Portrait of his that put down one of <hi>Titians.</hi>
+                  </p>
+                  <p>Among the <hi>Flemings,</hi> we have had <hi>Rubens,</hi> a Man to whom his Birth gave a Lively Wit, Free, Sweet, and
+<pb n="74" facs="tcp:106814:42"/> Univerſal; he had a Genius capable to raiſe him not only to the Rank of the Antient Painters, but alſo to the greateſt Imployments, and according<g ref="char:EOLhyphen"/>ly he was made choice of to go on one of the moſt famous Embaſſies that has been in our Age. His Guſt for deſign did Taſt more of the natural <hi>Fleming</hi> than of the Beauty of the Antique, for he had been but a little time at <hi>Rome.</hi> Tho' we may obſerve in all his Works, a Grandeur, and Majeſty, yet one may ſay truly, that generally ſpeaking, he did not deſign well, but for the other parts of Paint<g ref="char:EOLhyphen"/>ing he underſtood and poſſeſt as much as ever Painter did. His principal Study was made in <hi>Lombardy,</hi> and particularly after the Works of <hi>Titi<g ref="char:EOLhyphen"/>an, Paul Veroneſe,</hi> and <hi>Tintoret</hi> from all which, (as one may ſay) he skim'd away the Cream, to gether for his own uſe certain general Maxims and infal<g ref="char:EOLhyphen"/>lible Rules, which he always obſer<g ref="char:EOLhyphen"/>ved, and by which he performed his Works with more facility than <hi>Titian,</hi> more Purity, Truth and Science, than <hi>Paul Veroneſe,</hi> and more Majeſty, Re<g ref="char:EOLhyphen"/>poſe,
+<pb n="75" facs="tcp:106814:42"/> and Moderation than <hi>Tintoret.</hi> In fine, his manner was ſo firm, ſo skillful, and ſo prompt, that it ſeem'd as if his Rare Genius was ſent on purpoſe from Heaven, to teach Man<g ref="char:EOLhyphen"/>kind the Art of Painting.</p>
+                  <p>His School was fill'd with many good Diſciples, among whom <hi>Vandike</hi> beſt underſtood the Rules and Ge<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>ral Maxims of his Maſter, and did even ſurpaſs him in the Delicacy of his Carnations (or Fleſh Colours) and in his Cabinet Pieces; but he had as ill a Guſt as him, in that Part which relates to Deſign.</p>
+               </div>
+            </div>
+            <div n="5" type="section">
+               <pb n="76" facs="tcp:106814:43"/>
+               <head>SECT. V. <hi>Of Poets and Poetry.</hi>
+               </head>
+               <p>AFter <hi>Eugenius</hi> had thus finiſht his (or rather <hi>Monſieur Freſnoy's)</hi> Diſcourſe of the Famous Italian Paint<g ref="char:EOLhyphen"/>ers, the Company fell into familiar Chat, ſuch as produced nothing Re<g ref="char:EOLhyphen"/>markable; till the approach of Night cauſed the Viſitants to think of home. <hi>Mitis</hi> made <hi>Eugenius</hi> a very gentile Complement at parting, and <hi>Julio</hi> profeſt, that tho' his Entertainment was in all particulars extream Noble and Obliging, yet nothing had more ſurpriſed him with Delight, than the Sight of his Excellent Collection of Pictures. As they return'd, <hi>Mitis</hi> began a Diſcourſe which laſted all the way, near two hours. He ſaid it may be a Queſtion which is the moſt Delightſom Painting or Poetry? Underſtand me, where both are good and in perfection; for the little com<g ref="char:EOLhyphen"/>mon
+<pb n="77" facs="tcp:106814:43"/> Dawbings are no more to be va<g ref="char:EOLhyphen"/>lued in one, than the Street Ballads and diſpicable Rhimes of the other. Whichſoever occaſions the greateſt Pleaſures (ſaid <hi>Julio)</hi> I will not de<g ref="char:EOLhyphen"/>termine; for that may ariſe chiefly from the apprehenſion, or different Genius of the Party who views the Picture, or reads the Poem: But I am apt to believe that Poetry is more uſe<g ref="char:EOLhyphen"/>ful to humane Life, by Reaſon of its Moral Precepts and Inſtructions, ſuch as cannot ariſe from a Dumb Paint<g ref="char:EOLhyphen"/>ing. As Dumb as the Painting is, ſaid <hi>Liſander.</hi> Pictures are thought to be of great uſe, even by the way of Direction and Information, beyond Sea; and therefore they are ſo fre<g ref="char:EOLhyphen"/>quently placed in Churches there, to highten the Affections and advance Devotion. 'Tis true, this has been thought Superſtitious here in our Country, and therefore Pictures have been with us Excommunicated or Ex<g ref="char:EOLhyphen"/>pell'd the Church, and certain Texts of Scripture Writ up and down on the Walls, inſtead of them; and yet ſome People think this to be of as lit<g ref="char:EOLhyphen"/>tle
+<pb n="78" facs="tcp:106814:44"/> uſe, and leſs Ornament than the other; for ſay they, in Country Churches, where it is moſt Practiſed, many (if not moſt) of the Pariſh cannot Read, whereas every Body un<g ref="char:EOLhyphen"/>derſtands the meaning of a Picture, which indeed ſpeaks all Languages: And for that Reaſon they have been, not improperly, called, <hi>The Lay-mens Books.</hi> But to wave this Compariſon of Painting and Poetry, which has been allow'd in all Ages ſince Old <hi>Horace</hi> ſaid,</p>
+               <q>
+                  <l>—Pictoribus atque Poetis</l>
+                  <l>Quidlibet audendi ſemper fuit aequa po<g ref="char:EOLhyphen"/>teſtas.</l>
+               </q>
+               <p>There is one Point of Diſparity be<g ref="char:EOLhyphen"/>tween 'em, in the true Cauſe of which I would gladly be ſatisfied. And that is, why Poetry and Poverty are counted inſeperable Companions, and that for a Man to have a Poetical Genius is thought fatal, that he is thereby half Ruined, and in the rea<g ref="char:EOLhyphen"/>dy way to Beggary? Whereas for a Painter to have an apt and ready Ge<g ref="char:EOLhyphen"/>nius
+<pb n="79" facs="tcp:106814:44"/> in his Science, is counted a good Omen, and aſſures us that in time he will be a grat Maſter, and raiſe an Eſtate. <hi>Julio</hi> after a little pauſe, an<g ref="char:EOLhyphen"/>ſwer'd to this purpoſe. 'Tis very true, that thoſe who addict themſelves to Poetry, eſpecially ſuch who make it their whole buſineſs, have been gene<g ref="char:EOLhyphen"/>rally obſerved to be little beholding to Fortune, or in plain Engliſh, poor and indigent; one Reaſon may be, that they are Men of Generous Souls, above their Fortunes, and live accor<g ref="char:EOLhyphen"/>ding to the Ideas and Notions they Read and Write of; which tho' com<g ref="char:EOLhyphen"/>mendable in Poems and Romances, yet are not practicable here, without a plentiful Revenue, and almoſt Inex<g ref="char:EOLhyphen"/>hauſtible Fund. Beſides, they Love quiet, as moſt agreeable to their Stu<g ref="char:EOLhyphen"/>dies, while thoſe who Raiſe Eſtates are your Intreaguers, Men of Buſi<g ref="char:EOLhyphen"/>neſs, and ſuch as live in a continual Hurry. Add to this, that being Men of Witty and Delightſom Converſa<g ref="char:EOLhyphen"/>tion, their Company is deſired by al<g ref="char:EOLhyphen"/>moſt all, and thoſe of Fortunes and Expences greater than they in Pru<g ref="char:EOLhyphen"/>dence
+<pb n="80" facs="tcp:106814:45"/> can Cope with; which inſen<g ref="char:EOLhyphen"/>ſibly decays that little Eſtate which they have. An other Reaſon may be that they aſpire no higher than a handſom ſubſiſtance for the preſent, and leave the future to Providence that diſpoſes all things; in which particular they are better Chriſtians and Philoſophers, than Husbands and Parents. After all, perhaps this Cha<g ref="char:EOLhyphen"/>racter of Poverty is not only apply<g ref="char:EOLhyphen"/>able to Poets, but in ſome (if not equal) Degree, to all other Scholars, who being Maſters of Little or no<g ref="char:EOLhyphen"/>thing beſides their Learning, they are compell'd (after the Example of all Ages) to apply themſelves to Great Men; ſome of whom, whoſe Eſtates have overgrown their Wit and Hu<g ref="char:EOLhyphen"/>manity, think themſelves importuned with their Addreſſes, and therefore ſpeak more diſgracefully of them than they deſerve. Theſe are the Reverſe of a <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cenas;</hi> they have have his Riches, but Souls below a <hi>Plebeian.</hi> They look upon a Poet, or Poor Scholar, with a Preſent or Dedica<g ref="char:EOLhyphen"/>tion, as a kind of Robber, for tho'
+<pb n="81" facs="tcp:106814:45"/> He does not take their Purſe like your Highwayman, yet he forces their Will, and they part with what Cuſtom obliges them to return, (if they make any) meerly to avoid the Diſhonour, as unwillingly and with as ill a Face, as if they heard <hi>Stand and Deliver.</hi> For this Reaſon, ſaid <hi>Mitis,</hi> I wou'd have (if poſſible) no Poets but ſuch only who have Eſtates of Inheritance Large and ſufficient to guard them both from the Inſults of the World, and Cares of ſubſiſting. 'Tis true, there have been ſeveral a<g ref="char:EOLhyphen"/>mong the Romans, and in our Age, who have been as Eminent for their Excellent Genius this way, as for their Quality. But for the moſt part, the Great Men and the Poets are not to be United; for <hi>they</hi> are <hi>Born</hi> Rich, and <hi>theſe</hi> are <hi>born</hi> Poets. But where ſome of thoſe to raiſe their Eſtates (which are already made to their hands) they might, perhaps, live as poor as theſe. There is certainly more re<g ref="char:EOLhyphen"/>quir'd to getting Riches, than Learn<g ref="char:EOLhyphen"/>ing and Science: There is much of Luck, and ſomething of Trick (the
+<pb n="82" facs="tcp:106814:46"/> Citizens call it Myſtery) that are neceſſary Concomitants. What elſe makes the Hypocrite more plauſible than the Good Chriſtian, an Empirick Richer than a Learned Doctor? And I have heard of a Fellow in the Coun<g ref="char:EOLhyphen"/>try, who cou'd not Write, nor (hard<g ref="char:EOLhyphen"/>ly) read, and yet got a great Eſtate by pretending to the Law. In theſe Lucky pretences, theſe Tricks and My<g ref="char:EOLhyphen"/>ſteries, or what ever you call 'em, it ſeems the Poets are Ignorant: There is ſtill one other Reaſon for a Poets Poverty; thoſe who addict themſelves to other Studies, find great incourage<g ref="char:EOLhyphen"/>ment from publick Proviſions. The Divine has his Livings, Promotions, and Dignities. Thoſe of the Law have abundance of Offices of mighty profit; and the Phyſitians, ſettled Sa<g ref="char:EOLhyphen"/>laries from Hoſpitals and other endow<g ref="char:EOLhyphen"/>ments. But the Poet (as ſuch) hath no Office or Place of Preferment be<g ref="char:EOLhyphen"/>longing to his Profeſſion, that I know of, except one; and that too, conſiſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> chiefly in Reputation, and a Pipe o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Canary. This ſtarts an other occa<g ref="char:EOLhyphen"/>ſion of their impoveriſhment; they
+<pb n="83" facs="tcp:106814:46"/> have been generally devoted to the Bottle; they fancy inſpiration from Wine; and I never heard of any who raiſed an Eſtate, but thouſands who conſumed it, by Drinking. You have given Reaſons more than enough, ſaid <hi>Liſander,</hi> to juſtifie the common No<g ref="char:EOLhyphen"/>tion of Poets. I perceive that Ver<g ref="char:EOLhyphen"/>ſes and Poems are pretty Toys to play with, but the worſt Tools for a Trade that ever were invented. 'Tis well ſome of our Poets have other ways of ſubſiſting, elſe I know not how they wou'd do to live in this World, un<g ref="char:EOLhyphen"/>leſs they could Reſtore the Golden Age (their beloved Theme) in which bountiful Nature ſupply'd all things to every one, and none wanted any thing. And among other Arts, which have interfered with Poeſie, I have obſerved in a more eſpecial manner, that of Painting to be one; as if the two Siſter Sciences delighted to live together in the ſame Perſon. You ſeldom knew a Poet but he was a Lo<g ref="char:EOLhyphen"/>ver of Pictures, nor a Painter who had not the like Affection for Poems and Muſick (which is really an inarti<g ref="char:EOLhyphen"/>culate
+<pb n="84" facs="tcp:106814:47"/> Poeſie). Some perſons have attain'd to a great perfection in both theſe Arts; ſuch was <hi>Leonardo da Vin<g ref="char:EOLhyphen"/>ci;</hi> I cou'd Name other Italians, and ſeveral of our own Nation; But 'tis ſu<g ref="char:EOLhyphen"/>fficient to inſtance only in one. A young Lady of Eminent Virtue and Beauty, was when ſhe lived (which was not many years ſince) incomparable for her performances both with the Pen and Penſil. I mean Mrs. <hi>Ann Killegrew,</hi> whoſe Picture drawn by her ſelf, is Printed before her Book of Poems, publiſht ſoon after her Death. A Gentleman of our Acquaintance, tho' he had never ſeen her when living, fell really in love with her Memory, and on the firſt view of her Picture and Poems, compoſed ſome Verſes which I think I can ſtill remember.</p>
+               <q>
+                  <lg>
+                     <l>Often have I Conquer'd been</l>
+                     <l>With the Beauties I have ſeen;</l>
+                     <l>Often have uncommon Faces</l>
+                     <l>Pleas'd and Wounded with their Graces:</l>
+                     <l>But till this Hour I never found</l>
+                     <l>That the Fair Sex unſeen can Wound:</l>
+                     <pb n="85" facs="tcp:106814:47"/>
+                     <l>Till now I never was a Slave</l>
+                     <l>To Charms and Beauties in a Grave:</l>
+                  </lg>
+                  <lg>
+                     <l>Nor time can cure, nor Hope can eaſe my Care,</l>
+                     <l>At once I ſee, Love, and diſpair.</l>
+                     <l>Ah ſweet Remains of that Lamented Maid!</l>
+                     <l>Ah Lovely Shadow of a Shade!</l>
+                     <l>Where's now the Hand which this fair Image drew?</l>
+                     <l>Where's that we miſs even when we view?</l>
+                     <l>Where is that Noble Fancy cou'd deſign</l>
+                     <l>A Face, and Verſe, both ſo Divine?</l>
+                     <l>Where is that Face that did all Art defie,</l>
+                     <l>That Art that Nature did outvy?</l>
+                     <l>Where in the Sex ſhall we her Virtue find?</l>
+                     <l>And where her Wit in all Mankind?</l>
+                  </lg>
+                  <lg>
+                     <l>Abſurd Inquiries! Can ſuch Beauty dye,</l>
+                     <l>Such Wit be ſubject to Mortality?</l>
+                     <l>Can ſuch Accompliſhments as hers create</l>
+                     <l>Leſs than a Miracle, and Conquer Fate?</l>
+                     <l>See prophane Infidel, ſee here, and find</l>
+                     <l>In this Eternal Monument inſhrined,</l>
+                     <l>Her very ſelf; her Wit, her Face, and Mind.</l>
+                  </lg>
+               </q>
+               <p>This ſeems, indeed, to be Writ with as great Affection as Encomium, and more Love than Art. But you know <hi>Philaſter,</hi> he is the Author. I did imagine, ſaid <hi>Mitis,</hi> it muſt be he; He is himſelf a pretender to both
+<pb n="86" facs="tcp:106814:48"/> theſe Arts: And that with as much Succeſs as he deſires, ſince he never made either of them his Buſineſs, but Diverſion.</p>
+               <p>With this and ſuch like Diſcourſe, the Way and the Time paſt off, when they found themſelves arrived at their Journeys End, and that the Day-Light had determined, and the Sun Reſigned his Office to his Siſter almoſt an hour before, which they never minded.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106814:48"/>
+         </div>
+      </body>
+   </text>
+</TEI>
